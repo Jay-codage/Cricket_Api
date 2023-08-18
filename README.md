@@ -9,7 +9,9 @@ I've created a dynamic REST API using Python and Django that offers real-time cr
 ## Initial Setup
 Create a virtual environment for the repository by executing.
 *     virtualenv -p python3.8 ~/.virtualenv/VENV_NAME
-For virtualenv **https://www.youtube.com/watch?v=GZbeL5AcTgw**
+For virtualenv :
+    1) `others`: **https://www.youtube.com/watch?v=GZbeL5AcTgw**  
+    2) `Pycharm`: **https://www.youtube.com/watch?v=2P30W3TN4nI**
 ## Running Tests
 
 Manual Setup For Backend Development
