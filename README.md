@@ -29,3 +29,16 @@ Manual Setup For Backend Development
 6) Run the development server by executing:
     **`pycharm : python manage.py runserver`**
     **`others: ./manage runserver`**
+
+## To fetch live data, follow these steps in your terminal
+
+1) Navigate to the **`cricket_api/scrapping`** directory.
+2) Run the following Python files one by one: **`match.py`**, **`match_link_transfer.py`**, and **`test_match_scorecard.py`**.
+    
+    #### Here's a condensed version of the instructions:
+   * cd cricket_api/scrapping
+   * python match.py
+   * python match_link_transfer.py
+   * python test_match_scorecard.py
+   
+Make sure you have Python installed and the necessary dependencies are satisfied before running the commands.
