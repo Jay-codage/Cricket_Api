@@ -1,0 +1,500 @@
+{% extends 'match_base.html' %}
+{% block match_details_content %}
+<div class="ds-grow" style="width: calc(100% - 322px);">
+    <div class="ds-w-full ds-bg-fill-content-prime ds-overflow-hidden ds-rounded-xl ds-border ds-border-line">
+        <div class="ds-p-0">
+            <div class="">
+                <div class="ds-px-4 ds-py-3 ds-border-b ds-border-line">
+                    <div class="ds-flex ds-items-center"><div class="ds-grow">
+                        <div class="ds-text-raw-secondary-orange">
+                            <strong class="ds-uppercase ds-text-tight-m">{{ match_details.match_start }}</strong>
+                        </div>
+                        <div class="ds-text-tight-m ds-font-regular ds-text-typo-mid3">{{ match_details.match_about }}</div>
+                    </div>
+                        <div class="ds-grow-0 ds-flex">
+                            <div class="ds-flex ds-border-r ds-border-ui-stroke ds-pr-3">
+                                <a href="http://127.0.0.1:8000/live-score/" class="ds-group ds-inline-flex ds-items-center">
+                                    <i class="icon-keyboard_arrow_left-outlined ds-text-icon ds-block ds-text-typo group-hover:ds-text-typo-primary" style="font-size: 24px;"></i>
+                                    <span class="ds-text-tight-xs ds-block ds-text-typo group-hover:ds-text-typo-primary">Prev</span>
+                                </a>
+                                <a href="/series/women-s-ashes-2023-1336063/england-women-vs-australia-women-1st-t20i-1336074/live-cricket-score" class="ds-group ds-inline-flex ds-items-center ds-ml-4">
+                                    <span class="ds-text-tight-xs ds-block ds-text-typo group-hover:ds-text-typo-primary">Next</span>
+                                    <i class="icon-keyboard_arrow_right-outlined ds-text-icon ds-block ds-text-typo group-hover:ds-text-typo-primary" style="font-size: 24px;"></i>
+                                </a>
+                            </div>
+                            <div class="ds-flex ds-items-center ds-leading-none"><div></div><div class="ds-ml-4">
+                                <div class="ds-flex ds-flex-row ds-space-x-2">
+                                    <div class="ds-popper-wrapper">
+                                        <i class="icon-share-filled ds-text-icon ds-cursor-pointer ds-cursor-pointer" aria-expanded="false" style="font-size: 20px;"></i>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="ds-ml-4">
+                                    <div class="ds-popper-wrapper">
+                                        <i class="icon-more_vert-outlined ds-text-icon ds-cursor-pointer" aria-expanded="false" style="font-size: 20px;"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="ds-flex">
+                    <div class="ds-w-full">
+                        <div class="ds-text-compact-xxs ds-p-2 ds-px-4 lg:ds-py-3">
+                            <div class="ds-w-full"><div class="ds-flex ds-justify-between ds-items-center">
+                                <div class="ds-truncate"></div>
+                            </div>
+                                <div class="">
+                                    <div class="ds-flex ds-flex-col ds-mt-3 md:ds-mt-0 ds-mt-0 ds-mb-1">
+                                        <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-mb-2">
+                                            <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="Australia Women">
+                                                <img width="32" height="32" alt="Australia Women Flag" class="ds-mr-2" src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/340400/340493.png" style="width: 32px; height: 32px;">
+                                                <a href="/team/australia-women-238" class="ds-inline-flex ds-items-start ds-leading-none">
+                                                    <span class="ds-text-tight-l ds-font-bold ds-text-typo hover:ds-text-typo-primary ds-block ds-truncate">{{ match_details.team_1_name }}</span>
+                                                </a>
+                                                <i class="icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover" style="font-size: 12px;"></i>
+                                            </div>
+                                            <div class="ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap fadeIn-exit-done">
+                                                <strong class="">{{ match_details.team_1_score }}</strong>
+                                            </div>
+                                        </div>
+                                        <div class="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-mb-2">
+                                            <div class="ds-flex ds-items-center ds-min-w-0 ds-mr-1" title="England Women">
+                                                <img width="32" height="32" alt="England Women Flag" class="ds-mr-2" src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/313200/313261.logo.png" style="width: 32px; height: 32px;">
+                                                <a href="/team/england-women-975" class="ds-inline-flex ds-items-start ds-leading-none">
+                                                    <span class="ds-text-tight-l ds-font-bold ds-text-typo hover:ds-text-typo-primary ds-block ds-truncate !ds-text-typo-mid3">{{ match_details.team_2_name }}</span>
+                                                </a>
+                                                <i class="icon-dot_circular ds-text-icon-error hover:ds-text-icon-error-hover" style="font-size: 12px;"></i>
+                                            </div>
+                                            <div class="ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap fadeIn-exit-done">
+                                                <strong class="">{{ match_details.team_2_score }}</strong>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p class="ds-text-tight-m ds-font-regular ds-truncate ds-text-typo">
+                                    <span>{{ match_details.status }}</span>
+                                </p>
+                            </div>
+                        </div>
+                        <span class="ds-text-tight-s ds-font-regular ds-text-typo-mid3"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="ds-text-tight-s ds-font-regular ds-overflow-x-auto ds-scrollbar-hide ds-whitespace-nowrap ds-mt-1 md:ds-mt-0 lg:ds-flex lg:ds-items-center lg:ds-justify-between lg:ds-px-4 lg:ds-py-2 lg:ds-bg-fill-content-alternate ds-text-typo-mid3 md:ds-text-typo-mid2">
+                <div class="ds-flex">
+                    <div>
+                        <span>{{ match_details.run_rate }}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="ds-block">
+            </div>
+        </div>
+    </div>
+        <div class="ds-p-0">
+        <div class="ds-flex">
+            <div class="ds-w-3/4"></div>
+            <div class="ds-w-1/4 ds-border-l ds-border-line"></div>
+        </div>
+        <div class="ds-flex">
+            <div class="ds-w-3/4 ds-overflow-x-auto ds-scrollbar-hide">
+                <table class="ds-w-full ds-table ds-table-md ds-table-auto ">
+                    <thead class="ds-bg-fill-content-alternate ds-text-left ds-text-right ds-text-typo-mid3">
+                    <tr class="ds-capitalize">
+                        <th class="ds-min-w-max ds-text-left" colspan="1">{{ match_details.batting_head.0 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.batting_head.1 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.batting_head.2 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.batting_head.3 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.batting_head.4 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.batting_head.5 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell ds-whitespace-nowrap" colspan="3">{{ match_details.batting_head.6 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell ds-whitespace-nowrap" colspan="1">{{ match_details.batting_head.7 }}</th>
+                    </tr>
+                    </thead>
+                    <tbody class="ds-text-right">
+                    <tr class="">
+                        <td class="ds-min-w-max ds-text-left ds-flex ds-items-center">
+                            <a href="/cricketers/ellyse-perry-275487" class="ds-inline-flex ds-items-start ds-leading-none">
+                                <span class="ds-text-tight-s ds-font-medium ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block ds-whitespace-nowrap">{{ match_details.batsman_name_1.0 }}</span>
+                            </a>
+                        </td>
+                        <td class="ds-min-w-max">
+                            <strong>{{ match_details.batsman_name_1.1 }}</strong>
+                        </td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_1.2 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_1.3 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_1.4 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_1.5 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="3">{{ match_details.batsman_name_1.6 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.batsman_name_1.7 }}</td>
+                    </tr>
+                    <tr class="">
+                        <td class="ds-min-w-max ds-text-left ds-flex ds-items-center">
+                            <a href="/cricketers/beth-mooney-381258" class="ds-inline-flex ds-items-start ds-leading-none">
+                                <span class="ds-text-tight-s ds-font-medium ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block ds-whitespace-nowrap">{{ match_details.batsman_name_2.0 }}</span>
+                            </a>
+                        </td>
+                        <td class="ds-min-w-max">
+                            <strong>{{ match_details.batsman_name_2.1 }}</strong>
+                        </td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_2.2 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_2.3 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_2.4 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.batsman_name_2.5 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="3">{{ match_details.batsman_name_2.6 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.batsman_name_2.7 }}</td>
+                    </tr>
+                    </tbody>
+                    <thead class="ds-bg-fill-content-alternate ds-text-left ds-text-right">
+                    <tr class="ds-text-capitalize">
+                        <th class="ds-min-w-max ds-text-left" colspan="1">{{ match_details.bowling_head.0 }}</th>
+                        <td class="ds-min-w-max" colspan="1">O</td>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.bowling_head.1 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.bowling_head.2 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.bowling_head.3 }}</th>
+                        <th class="ds-min-w-max" colspan="1">{{ match_details.bowling_head.4 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="1">{{ match_details.bowling_head.5 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="1">{{ match_details.bowling_head.6 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="1">{{ match_details.bowling_head.7 }}</th>
+                        <th class="ds-min-w-max ds-hidden lg:ds-table-cell ds-whitespace-nowrap" colspan="1">{{ match_details.bowling_head.8 }}</th>
+                    </tr>
+                    </thead>
+                    <tbody class="ds-text-right">
+                    <tr class="">
+                        <td class="ds-min-w-max ds-text-left ds-flex ds-items-center">
+                            <a href="/cricketers/nat-sciver-brunt-515905" class="ds-inline-flex ds-items-start ds-leading-none">
+                                <span class="ds-text-tight-s ds-font-medium ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block ds-whitespace-nowrap">{{ match_details.bowler_names.0 }}</span>
+                            </a>
+                        </td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.1 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.2 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.3 }}</td>
+                        <td class="ds-min-w-max ds-font-bold">{{ match_details.bowler_names.4 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.5 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.6 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.7 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.8 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="1">{{ match_details.bowler_names.9 }}</td>
+                    </tr>
+                    <tr class="">
+                        <td class="ds-min-w-max ds-text-left ds-flex ds-items-center">
+                            <a href="/cricketers/sophie-ecclestone-878039" class="ds-inline-flex ds-items-start ds-leading-none">
+                                <span class="ds-text-tight-s ds-font-medium ds-text-typo ds-underline ds-decoration-ui-stroke hover:ds-text-typo-primary hover:ds-decoration-ui-stroke-primary ds-block ds-whitespace-nowrap">{{ match_details.bowler_names.10 }}</span>
+                            </a>
+                        </td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.11 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.12 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.13 }}</td>
+                        <td class="ds-min-w-max ds-font-bold">{{ match_details.bowler_names.14 }}</td>
+                        <td class="ds-min-w-max">{{ match_details.bowler_names.15 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.16 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.17 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell">{{ match_details.bowler_names.18 }}</td>
+                        <td class="ds-min-w-max ds-hidden lg:ds-table-cell" colspan="1">{{ match_details.bowler_names.19 }}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line">
+            <span>
+                <strong class="ds-font-bold">{{ match_details.partnership }}</strong>
+            </span>
+        </div>
+        <div class="ds-flex ds-items-center ds-border-b ds-border-line">
+            <div class="ds-text-tight-s ds-font-regular ds-px-4 ds-py-2">
+                <strong>{{ match_details.reviews }}</strong>
+            </div>
+        </div>
+        <div class="ds-mx-4">
+            <div class="ds-relative ds-w-full ds-scrollbar-hide">
+                <div class="ds-absolute ds-right-0 ds-top-0 ds-bottom-0 ds-flex ds-items-center ds-justify-end ds-w-[74px] ds-cursor-pointer ds-bg-fill-nav-fade-right ds-bg-fill-nav-fade-right ds-z-[4]">
+                    <i class="icon-keyboard_arrow_right-filled ds-text-icon ds-block ds-pr-4" style="font-size: 20px;"></i>
+                </div>
+                <div class="ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide ds-items-center ds-space-x-2">
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.0 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.1 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-green02 ds-text-raw-white">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-raw-white">
+                                    <span>{{ match_details.last_30th_balls.2 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.3 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.4 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-green02 ds-text-raw-white">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-raw-white">
+                                    <span>{{ match_details.last_30th_balls.5 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-flex ds-space-x-2 ds-items-center ds-relative ds-py-2">
+                            <span class="ds-absolute ds-border-l ds-border-line ds-top-0 ds-bottom-0 ds-left-3"></span>
+                            <span class="ds-text-tight-s ds-font-regular ds-bg-fill-content-prime ds-z-[1]">{{ match_details.last_30th_balls.6 }}</span>
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.7 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.8 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.9 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.10 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.11 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.12 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-flex ds-space-x-2 ds-items-center ds-relative ds-py-2">
+                            <span class="ds-absolute ds-border-l ds-border-line ds-top-0 ds-bottom-0 ds-left-3"></span>
+                            <span class="ds-text-tight-s ds-font-regular ds-bg-fill-content-prime ds-z-[1]">{{ match_details.last_30th_balls.13 }}</span>
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.14 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.15 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.16 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.17 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.18 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.19 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-flex ds-space-x-2 ds-items-center ds-relative ds-py-2">
+                            <span class="ds-absolute ds-border-l ds-border-line ds-top-0 ds-bottom-0 ds-left-3"></span>
+                            <span class="ds-text-tight-s ds-font-regular ds-bg-fill-content-prime ds-z-[1]">{{ match_details.last_30th_balls.20 }}</span>
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.21 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2"
+                        ><div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                            <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                <span>{{ match_details.last_30th_balls.22 }}</span>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.23 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.24 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.25 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.26 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-flex ds-space-x-2 ds-items-center ds-relative ds-py-2">
+                            <span class="ds-absolute ds-border-l ds-border-line ds-top-0 ds-bottom-0 ds-left-3"></span>
+                            <span class="ds-text-tight-s ds-font-regular ds-bg-fill-content-prime ds-z-[1]">{{ match_details.last_30th_balls.27 }}</span>
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-raw-green02 ds-text-raw-white">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-raw-white">
+                                    <span>{{ match_details.last_30th_balls.28 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.29 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.30 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.31 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.32 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="ds-py-2">
+                            <div class="ds-flex ds-items-center ds-justify-center ds-rounded ds-overflow-hidden ds-bg-ui-fill-default-translucent ds-text-typo">
+                                <div class="ds-text-tight-m ds-font-bold ds-flex ds-items-center ds-justify-center ds-text-center ds-w-8 ds-h-8 ds-text-typo">
+                                    <span>{{ match_details.last_30th_balls.33 }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

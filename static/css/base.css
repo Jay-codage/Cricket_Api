@@ -1,0 +1,181 @@
+.ds-pb-4 {
+  padding-bottom: 4px;
+}
+
+.ds-bg-fill-hsb {
+  background-color: #f3f3f3;
+}
+
+.ds-pt-2 {
+  padding-top: 2px;
+}
+
+.ds-min-h-[182px] {
+  min-height: 182px;
+}
+
+.ds-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.ds-block {
+  /* Add your styles for .ds-block here */
+}
+
+.ci-hsb-carousel {
+  /* Add your styles for .ci-hsb-carousel here */
+}
+
+.slick-slider {
+  /* Add your styles for .slick-slider here */
+}
+
+.slick-arrow {
+  /* Add your styles for .slick-arrow here */
+}
+
+.slick-prev {
+  /* Add your styles for .slick-prev here */
+}
+
+.slick-disabled {
+  /* Add your styles for .slick-disabled here */
+}
+
+.slick-list {
+  /* Add your styles for .slick-list here */
+}
+
+.slick-track {
+  width: 4030px;
+  opacity: 1;
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.slick-slide {
+  outline: none;
+}
+
+.ds-p-2 {
+  padding: 2px;
+}
+
+.ds-bg-fill-hsb-scorecell {
+  /* Add your styles for .ds-bg-fill-hsb-scorecell here */
+}
+
+.ds-text-compact-2xs {
+  /* Add your styles for .ds-text-compact-2xs here */
+}
+
+.ds-rounded-xl {
+  border-radius: 0.75rem;
+}
+
+.ds-h-[146px] {
+  height: 146px;
+}
+
+.ds-no-tap-higlight {
+  /* Add your styles for .ds-no-tap-higlight here */
+}
+
+.ds-text-compact-xxs {
+  /* Add your styles for .ds-text-compact-xxs here */
+}
+
+.ds-w-[288px] {
+  width: 288px;
+}
+
+.card {
+  /* Add your styles for .card here */
+}
+
+.ds-flex {
+  display: flex;
+}
+
+.ds-justify-between {
+  justify-content: space-between;
+}
+
+.ds-items-center {
+  align-items: center;
+}
+
+.ds-truncate {
+  /* Add your styles for .ds-truncate here */
+}
+
+.ds-leading-[0] {
+  line-height: 0;
+}
+
+.ci-team-score {
+  /* Add your styles for .ci-team-score here */
+}
+
+.ds-min-w-0 {
+  min-width: 0;
+}
+
+.ds-mr-1 {
+  margin-right: 1px;
+}
+
+.ds-mb-1 {
+  margin-bottom: 1px;
+}
+
+.ds-text-compact-s {
+  /* Add your styles for .ds-text-compact-s here */
+}
+
+.ds-text-right {
+  text-align: right;
+}
+
+.ds-whitespace-nowrap {
+  white-space: nowrap;
+}
+
+.ds-opacity-50 {
+  opacity: 0.5;
+}
+
+.ds-mt-2 {
+  margin-top: 2px;
+}
+
+.ds-border-t {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #ddd;
+}
+
+.ds-border-line-default-translucent {
+  /* Add your styles for .ds-border-line-default-translucent here */
+}
+
+.ds-inline-flex {
+  display: inline-flex;
+}
+
+.ds-leading-none {
+  line-height: 1;
+}
+
+.ds-mr-4 {
+  margin-right: 4px;
+}
+
+.ds-block {
+  display: block;
+}
+
+.hover\:ds-underline:hover,
+.hover\:ds-decoration-ui-stroke:hover {

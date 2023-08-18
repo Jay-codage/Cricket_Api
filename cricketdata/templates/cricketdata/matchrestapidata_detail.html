@@ -1,0 +1,8 @@
+{% extends 'cricketdata/matchrestapidata_base.html' %}
+{% block matchrestapidata_list_content %}
+{% for value in matchrestapidata.match_details.all %}
+    {% include 'cricketdetails/_cricketdetails.html' %}
+{% endfor %}
+
+
+{% endblock %}
