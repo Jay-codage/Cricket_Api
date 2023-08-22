@@ -21,7 +21,7 @@ def collect_scorecard_link():
             all_links.update(match_links)
     except (FileNotFoundError, json.JSONDecodeError):
         # Handle the case when the file is not found or contains invalid JSON data
-        print(f"Error reading or processing {file_name}")
+        print(f"Error reading or processing ")
         pass
 
     return (list(all_links))
