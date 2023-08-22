@@ -7,18 +7,22 @@ import concurrent.futures
 
 def collect_scorecard_link():
     all_links = set()
+    try:
+        with open('match_details.json', 'r') as file:
+            data = json.load(file)
+            match_links = [item['match_scorecard_link'] for item in data if
+                           item['match_scorecard_link'].endswith('/full-scorecard')]
+            all_links.update(match_links)
 
-    with open('match_details.json', 'r') as file:
-        data = json.load(file)
-        match_links = [item['match_scorecard_link'] for item in data if
-                       item['match_scorecard_link'].endswith('/full-scorecard')]
-        all_links.update(match_links)
-
-    with open('match.json', 'r') as file:
-        data = json.load(file)
-        match_links = [item['match_scorecard_link'] for item in data if
-                       item['match_scorecard_link'].endswith('/full-scorecard')]
-        all_links.update(match_links)
+        with open('match.json', 'r') as file:
+            data = json.load(file)
+            match_links = [item['match_scorecard_link'] for item in data if
+                           item['match_scorecard_link'].endswith('/full-scorecard')]
+            all_links.update(match_links)
+    except (FileNotFoundError, json.JSONDecodeError):
+        # Handle the case when the file is not found or contains invalid JSON data
+        print(f"Error reading or processing {file_name}")
+        pass
 
     return (list(all_links))
 
@@ -152,20 +156,26 @@ def main():
     urls = collect_scorecard_link()
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        future_to_url = {executor.submit(match_scorecard,f"http://{hostname}{url}"): url for url in urls}
+        future_to_url = {executor.submit(match_scorecard, f"http://{hostname}{url}"): url for url in urls}
 
         out = []
         for future in concurrent.futures.as_completed(future_to_url):
             url = future_to_url[future]
-            data = future.result()
-            if data:
-                out.append(data)
-            print(out)
+            try:
+                data = future.result()
+                if data:
+                    out.append(data)
+                print(out)
+            except Exception as e:
+                print(f"Error processing URL {url}: {e}")
 
-        with open("scorecard.json",'w') as f:
-            f.write(json.dumps(out))
+        # Serialize the data to JSON and write it to a file
+        with open("scorecard.json", 'w') as f:
+            json.dump(out, f, indent=4)
+
 
 if __name__ == '__main__':
     while True:
         main()
     time.sleep(1)
+

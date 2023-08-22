@@ -6,10 +6,17 @@ import json
 import concurrent.futures
 
 def collect_match_link():
-    with open('match.json','r') as file:
-        data = json.load(file)
-        match_links = [item['match_link'] for item in data if item['match_link'].endswith('/live-cricket-score')]
-        return (match_links)
+    for file_name in ['match.json']:
+        try:
+            with open('match.json', 'r') as file:
+                data = json.load(file)
+                match_links = [item['match_link'] for item in data if item['match_link'].endswith('/live-cricket-score')]
+        except (FileNotFoundError, json.JSONDecodeError):
+            # Handle the case when the file is not found or contains invalid JSON data
+            print(f"Error reading or processing {file_name}")
+            pass
+    return (match_links)
+
 
 def connect_to_website(url):
 
