@@ -10,6 +10,15 @@
         "result": "Match yet to begin"
     },
     {
+        "match_id": "2nd Youth ODI, Beckenham, August 28, 2023, Australia Under-19s tour of England",
+        "match_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
+        "match_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
+        "match_scorecard_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
+        "match_scorecard_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
+        "team_1_name": "England Under-19s",
+        "team_2_name": "Australia Under-19s"
+    },
+    {
         "match_start": "RESULT",
         "match_id": "12th Match (N), Basseterre, August 27, 2023, Caribbean Premier League",
         "match_link": "/series/caribbean-premier-league-2023-1369538/guyana-amazon-warriors-vs-jamaica-tallawahs-11th-match-1369568/full-scorecard",
@@ -420,22 +429,1304 @@
         }
     },
     {
-        "match_id": "Semi-Final 1, Bengaluru, August 28, 2023, Maharaja T20 Trophy",
-        "match_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
-        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
-        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
-        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
-        "team_1_name": "Hubli Tigers",
-        "team_2_name": "Shivamogga Lions"
+        "match_start": "RESULT",
+        "match_id": "30th Match (D/N), Bengaluru, August 27, 2023, Maharaja T20 Trophy",
+        "match_link": "/series/maharaja-t20-trophy-2023-1390842/gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875/full-scorecard",
+        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875-full-scorecard",
+        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875/full-scorecard",
+        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875-full-scorecard",
+        "team_1_name": "Shivamogga Lions",
+        "team_2_name": "Bengaluru Blasters",
+        "team_1_score": "192/5",
+        "result": "Shivamogga won by 11 runs",
+        "team_2_score": "(20 ov, T:193) 181/8",
+        "match_innings_1": {
+            "table_head": [
+                "Shivamogga Lions\u00a0\u00a0(20 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Rohan Kadam",
+                    "c Agarwal b Sarfaraz Ashraf",
+                    "35",
+                    "26",
+                    "-",
+                    "5",
+                    "0",
+                    "134.61"
+                ],
+                [
+                    "Nihal Ullal\u2020",
+                    "c Aman Khan b Hegde",
+                    "10",
+                    "12",
+                    "-",
+                    "1",
+                    "0",
+                    "83.33"
+                ],
+                [
+                    "Vinay Sagar",
+                    "c Aman Khan b Mahesh",
+                    "32",
+                    "25",
+                    "-",
+                    "2",
+                    "1",
+                    "128.00"
+                ],
+                [
+                    "Rohit Kumar",
+                    "c Kumar b Mahesh",
+                    "8",
+                    "8",
+                    "-",
+                    "1",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Abhinav Manohar",
+                    "not out",
+                    "58",
+                    "25",
+                    "-",
+                    "2",
+                    "5",
+                    "232.00"
+                ],
+                [
+                    "Shreyas Gopal(c)",
+                    "b Mahesh",
+                    "43",
+                    "23",
+                    "-",
+                    "3",
+                    "2",
+                    "186.95"
+                ],
+                [
+                    "S Shivaraj",
+                    "not out",
+                    "4",
+                    "1",
+                    "-",
+                    "1",
+                    "0",
+                    "400.00"
+                ],
+                [
+                    "TOTAL",
+                    "20 Ov(RR: 9.60)",
+                    "192/5",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-22(Nihal Ullal, 3.5 ov),2-64(Rohan Kadam, 8.4 ov),3-85(Rohit Kumar, 11.4 ov),4-86(Vinay Sagar, 11.6 ov),5-188(Shreyas Gopal, 19.5 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(w 2)",
+                    "2",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "K Gaurav",
+                    "3",
+                    "0",
+                    "38",
+                    "0",
+                    "12.66",
+                    "4",
+                    "4",
+                    "2",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Shubhang Hegde",
+                    "4",
+                    "0",
+                    "28",
+                    "1",
+                    "7.00",
+                    "9",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "LR Kumar",
+                    "4",
+                    "0",
+                    "40",
+                    "0",
+                    "10.00",
+                    "3",
+                    "4",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Mohsin Khan",
+                    "1",
+                    "0",
+                    "11",
+                    "0",
+                    "11.00",
+                    "0",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sarfaraz Ashraf",
+                    "4",
+                    "0",
+                    "25",
+                    "1",
+                    "6.25",
+                    "7",
+                    "0",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Tanish Mahesh",
+                    "4",
+                    "0",
+                    "50",
+                    "3",
+                    "12.50",
+                    "4",
+                    "4",
+                    "3",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Bengaluru Blasters\u00a0\u00a0(T: 193 runs from 20 ovs)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "EJ Jasper",
+                    "c Kranthi Kumar b Pranav Bhatia",
+                    "22",
+                    "21",
+                    "-",
+                    "0",
+                    "2",
+                    "104.76"
+                ],
+                [
+                    "Mayank Agarwal(c)",
+                    "c Kranthi Kumar b Gopal",
+                    "14",
+                    "10",
+                    "-",
+                    "3",
+                    "0",
+                    "140.00"
+                ],
+                [
+                    "Dega Nischal",
+                    "run out (Kranthi Kumar/Sharath)",
+                    "68",
+                    "40",
+                    "-",
+                    "4",
+                    "4",
+                    "170.00"
+                ],
+                [
+                    "Pavan Deshpande",
+                    "run out (Rohit Kumar)",
+                    "8",
+                    "8",
+                    "-",
+                    "0",
+                    "1",
+                    "100.00"
+                ],
+                [
+                    "Shubhang Hegde",
+                    "c Somanna b Sharath",
+                    "15",
+                    "10",
+                    "-",
+                    "1",
+                    "1",
+                    "150.00"
+                ],
+                [
+                    "Suraj Ahuja\u2020",
+                    "c sub (Rohan Naveen) b Kranthi Kumar",
+                    "29",
+                    "19",
+                    "-",
+                    "2",
+                    "1",
+                    "152.63"
+                ],
+                [
+                    "Aman Khan",
+                    "c Shivaraj b Somanna",
+                    "10",
+                    "6",
+                    "-",
+                    "1",
+                    "0",
+                    "166.66"
+                ],
+                [
+                    "LR Kumar",
+                    "c sub (Rohan Naveen) b Somanna",
+                    "6",
+                    "4",
+                    "-",
+                    "0",
+                    "1",
+                    "150.00"
+                ],
+                [
+                    "Mohsin Khan",
+                    "not out",
+                    "1",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "K Gaurav",
+                    "not out",
+                    "1",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "TOTAL",
+                    "20 Ov(RR: 9.05)",
+                    "181/8",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-23(Mayank Agarwal, 2.6 ov),2-52(EJ Jasper, 6.6 ov),3-68(Pavan Deshpande, 9.2 ov),4-128(Shubhang Hegde, 14.2 ov),5-144(Dega Nischal, 16.1 ov),6-169(Suraj Ahuja, 18.4 ov),7-173(Aman Khan, 19.2 ov),8-180(LR Kumar, 19.5 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(w 7)",
+                    "7",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Shreyas Gopal",
+                    "4",
+                    "0",
+                    "25",
+                    "1",
+                    "6.25",
+                    "12",
+                    "1",
+                    "2",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Vasuki Koushik",
+                    "4",
+                    "0",
+                    "38",
+                    "0",
+                    "9.50",
+                    "7",
+                    "4",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "HS Sharath",
+                    "4",
+                    "0",
+                    "29",
+                    "1",
+                    "7.25",
+                    "9",
+                    "1",
+                    "1",
+                    "3",
+                    "0"
+                ],
+                [
+                    "Pranav Bhatia",
+                    "2",
+                    "0",
+                    "15",
+                    "1",
+                    "7.50",
+                    "3",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Kranthi Kumar",
+                    "4",
+                    "0",
+                    "50",
+                    "1",
+                    "12.50",
+                    "4",
+                    "3",
+                    "3",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Aditya Somanna",
+                    "2",
+                    "0",
+                    "24",
+                    "2",
+                    "12.00",
+                    "4",
+                    "2",
+                    "2",
+                    "0",
+                    "0"
+                ]
+            ]
+        }
     },
     {
-        "match_id": "2nd Youth ODI, Beckenham, August 28, 2023, Australia Under-19s tour of England",
-        "match_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
-        "match_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
-        "match_scorecard_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
-        "match_scorecard_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
-        "team_1_name": "England Under-19s",
-        "team_2_name": "Australia Under-19s"
+        "match_start": "RESULT",
+        "match_id": "Final, Lord's, August 27, 2023, The Hundred Women's Competition",
+        "match_link": "/series/the-hundred-women-s-competition-2023-1355568/northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604/full-scorecard",
+        "match_link_slug": "-series-the-hundred-women-s-competition-2023-1355568-northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604-full-scorecard",
+        "match_scorecard_link": "/series/the-hundred-women-s-competition-2023-1355568/northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604/full-scorecard",
+        "match_scorecard_link_slug": "-series-the-hundred-women-s-competition-2023-1355568-northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604-full-scorecard",
+        "team_1_name": "Brave",
+        "team_2_name": "N S-Chargers",
+        "team_1_score": "139/6",
+        "result": "Brave won by 34 runs",
+        "team_2_score": "(94/100 balls, T:140) 105",
+        "match_innings_1": {
+            "table_head": [
+                "Southern Brave (Women)\u00a0\u00a0(100 balls maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Smriti Mandhana",
+                    "c Kelly b Ballinger",
+                    "4",
+                    "2",
+                    "1",
+                    "1",
+                    "0",
+                    "200.00"
+                ],
+                [
+                    "Danni Wyatt",
+                    "run out (Cross)",
+                    "59",
+                    "38",
+                    "48",
+                    "9",
+                    "1",
+                    "155.26"
+                ],
+                [
+                    "Maia Bouchier",
+                    "c Armitage b Cross",
+                    "4",
+                    "7",
+                    "5",
+                    "0",
+                    "0",
+                    "57.14"
+                ],
+                [
+                    "Georgia Adams",
+                    "c Wareham b Higham",
+                    "27",
+                    "28",
+                    "46",
+                    "2",
+                    "0",
+                    "96.42"
+                ],
+                [
+                    "Freya Kemp",
+                    "b Cross",
+                    "31",
+                    "17",
+                    "16",
+                    "5",
+                    "0",
+                    "182.35"
+                ],
+                [
+                    "Chloe Tryon",
+                    "c Wareham b Cross",
+                    "9",
+                    "6",
+                    "12",
+                    "1",
+                    "0",
+                    "150.00"
+                ],
+                [
+                    "Maitlan Brown",
+                    "not out",
+                    "2",
+                    "2",
+                    "3",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Kalea Moore",
+                    "not out",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "TOTAL",
+                    "100 balls(RPB: 1.39)",
+                    "139/6",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-4(Smriti Mandhana, 2b),2-8(Maia Bouchier, 9b),3-95(Danni Wyatt, 72b),4-105(Georgia Adams, 80b),5-136(Freya Kemp, 96b),6-137(Chloe Tryon, 98b)\u2022DRS"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(nb 2)",
+                    "2",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "B",
+                "0s",
+                "R",
+                "W",
+                "RPB",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Grace Ballinger",
+                    "20",
+                    "8",
+                    "28",
+                    "1",
+                    "1.40",
+                    "5",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Kate Cross",
+                    "20",
+                    "8",
+                    "21",
+                    "3",
+                    "1.05",
+                    "2",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Lucy Higham",
+                    "20",
+                    "8",
+                    "31",
+                    "1",
+                    "1.55",
+                    "5",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                [
+                    "Alice Davidson-Richards",
+                    "20",
+                    "4",
+                    "31",
+                    "0",
+                    "1.55",
+                    "4",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Georgia Wareham",
+                    "20",
+                    "4",
+                    "28",
+                    "0",
+                    "1.40",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Northern Superchargers (Women)\u00a0\u00a0(T: 140 runs from 100 balls)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Marie Kelly",
+                    "b Bell",
+                    "0",
+                    "2",
+                    "2",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Jemimah Rodrigues",
+                    "c Adams b Moore",
+                    "24",
+                    "14",
+                    "52",
+                    "2",
+                    "0",
+                    "171.42"
+                ],
+                [
+                    "Phoebe Litchfield",
+                    "c Kemp b Bell",
+                    "13",
+                    "11",
+                    "7",
+                    "2",
+                    "0",
+                    "118.18"
+                ],
+                [
+                    "Hollie Armitage(c)",
+                    "st \u2020Southby b Moore",
+                    "11",
+                    "14",
+                    "12",
+                    "1",
+                    "0",
+                    "78.57"
+                ],
+                [
+                    "Bess Heath\u2020",
+                    "st \u2020Southby b Tryon",
+                    "13",
+                    "12",
+                    "11",
+                    "1",
+                    "1",
+                    "108.33"
+                ],
+                [
+                    "Alice Davidson-Richards",
+                    "lbw b Shrubsole",
+                    "3",
+                    "6",
+                    "7",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Georgia Wareham",
+                    "c Bouchier b Tryon",
+                    "8",
+                    "7",
+                    "4",
+                    "1",
+                    "0",
+                    "114.28"
+                ],
+                [
+                    "Leah Dobson",
+                    "st \u2020Southby b Moore",
+                    "3",
+                    "10",
+                    "7",
+                    "0",
+                    "0",
+                    "30.00"
+                ],
+                [
+                    "Kate Cross",
+                    "not out",
+                    "12",
+                    "9",
+                    "16",
+                    "1",
+                    "0",
+                    "133.33"
+                ],
+                [
+                    "Lucy Higham",
+                    "c Moore b Bell",
+                    "12",
+                    "7",
+                    "9",
+                    "2",
+                    "0",
+                    "171.42"
+                ],
+                [
+                    "Grace Ballinger",
+                    "run out (Adams/Bell)",
+                    "0",
+                    "2",
+                    "3",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "TOTAL",
+                    "94 balls(RPB: 1.11)",
+                    "105",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-0(Marie Kelly, 2b),2-13(Phoebe Litchfield, 13b),3-35(Hollie Armitage, 31b),4-59(Bess Heath, 49b),5-66(Alice Davidson-Richards, 57b),6-75(Georgia Wareham, 65b),7-78(Jemimah Rodrigues, 73b),8-83(Leah Dobson, 79b),9-103(Lucy Higham, 91b),10-105(Grace Ballinger, 94b)\u2022DRS"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 2, w 4)",
+                    "6",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "B",
+                "0s",
+                "R",
+                "W",
+                "RPB",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Lauren Bell",
+                    "19",
+                    "13",
+                    "21",
+                    "3",
+                    "1.10",
+                    "3",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Anya Shrubsole",
+                    "15",
+                    "6",
+                    "18",
+                    "1",
+                    "1.20",
+                    "2",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Georgia Adams",
+                    "20",
+                    "8",
+                    "21",
+                    "0",
+                    "1.05",
+                    "1",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Chloe Tryon",
+                    "20",
+                    "7",
+                    "28",
+                    "2",
+                    "1.40",
+                    "4",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Kalea Moore",
+                    "20",
+                    "8",
+                    "15",
+                    "3",
+                    "0.75",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "RESULT",
+        "match_id": "Final, Lauderhill, August 27, 2023, US Masters T10",
+        "match_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
+        "match_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
+        "match_scorecard_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
+        "match_scorecard_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
+        "team_1_name": "New York Warriors",
+        "team_2_name": "Texas Chargers",
+        "team_1_score": "92/6",
+        "result": "Match tied (Chargers won the one-over eliminator)",
+        "team_2_score": "(10 ov, T:93) 92",
+        "match_innings_1": {
+            "table_head": [
+                "New York Warriors\u00a0\u00a0(10 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Kamran Akmal\u2020",
+                    "b Edwards",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Tillakaratne Dilshan",
+                    "c Tharanga b Ehsan Adil",
+                    "18",
+                    "12",
+                    "-",
+                    "1",
+                    "1",
+                    "150.00"
+                ],
+                [
+                    "Richard Levi",
+                    "b Ehsan Adil",
+                    "17",
+                    "13",
+                    "-",
+                    "3",
+                    "0",
+                    "130.76"
+                ],
+                [
+                    "Misbah-ul-Haq(c)",
+                    "c Tharanga b Imran Khan",
+                    "5",
+                    "8",
+                    "-",
+                    "0",
+                    "0",
+                    "62.50"
+                ],
+                [
+                    "Shahid Afridi",
+                    "c Edwards b Ehsan Adil",
+                    "1",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Abdul Razzaq",
+                    "c Stevens b Perera",
+                    "3",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "60.00"
+                ],
+                [
+                    "Jonathan Carter",
+                    "not out",
+                    "39",
+                    "17",
+                    "-",
+                    "3",
+                    "3",
+                    "229.41"
+                ],
+                [
+                    "Umaid Asif",
+                    "not out",
+                    "3",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "150.00"
+                ],
+                [
+                    "TOTAL",
+                    "10 Ov(RR: 9.20)",
+                    "92/6",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-0(Kamran Akmal, 0.1 ov),2-30(Richard Levi, 3.3 ov),3-41(Tillakaratne Dilshan, 5.1 ov),4-44(Shahid Afridi, 5.5 ov),5-44(Misbah-ul-Haq, 6.1 ov),6-62(Abdul Razzaq, 7.6 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 2, w 4)",
+                    "6",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Fidel Edwards",
+                    "2",
+                    "0",
+                    "21",
+                    "1",
+                    "10.50",
+                    "6",
+                    "3",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Imran Khan",
+                    "2",
+                    "0",
+                    "15",
+                    "1",
+                    "7.50",
+                    "5",
+                    "2",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Sohail Tanvir",
+                    "2",
+                    "0",
+                    "28",
+                    "0",
+                    "14.00",
+                    "1",
+                    "1",
+                    "2",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Ehsan Adil",
+                    "2",
+                    "0",
+                    "11",
+                    "3",
+                    "5.50",
+                    "6",
+                    "1",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Thisara Perera",
+                    "2",
+                    "0",
+                    "15",
+                    "1",
+                    "7.50",
+                    "2",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Texas Chargers\u00a0\u00a0(T: 93 runs from 10 ovs)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Mukhtar Ahmed",
+                    "b Sohail Khan",
+                    "6",
+                    "4",
+                    "-",
+                    "1",
+                    "0",
+                    "150.00"
+                ],
+                [
+                    "Mohammad Hafeez",
+                    "c sub (SK Patel) b Taylor",
+                    "46",
+                    "17",
+                    "-",
+                    "4",
+                    "4",
+                    "270.58"
+                ],
+                [
+                    "Ben Dunk(c)\u2020",
+                    "c Misbah-ul-Haq b Umaid Asif",
+                    "20",
+                    "12",
+                    "-",
+                    "1",
+                    "2",
+                    "166.66"
+                ],
+                [
+                    "Thisara Perera",
+                    "b Sohail Khan",
+                    "4",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "66.66"
+                ],
+                [
+                    "Darren Stevens",
+                    "lbw b Umaid Asif",
+                    "2",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "33.33"
+                ],
+                [
+                    "Upul Tharanga",
+                    "b Sohail Khan",
+                    "1",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "20.00"
+                ],
+                [
+                    "Phil Mustard",
+                    "b Sohail Khan",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Neil Broom",
+                    "c Shahid Afridi b Sohail Khan",
+                    "1",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Sohail Tanvir",
+                    "st \u2020Kamran Akmal b Shahid Afridi",
+                    "8",
+                    "5",
+                    "-",
+                    "0",
+                    "1",
+                    "160.00"
+                ],
+                [
+                    "Ehsan Adil",
+                    "not out",
+                    "1",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Fidel Edwards",
+                    "lbw b Shahid Afridi",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "TOTAL",
+                    "10 Ov(RR: 9.20)",
+                    "92",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-13(Mukhtar Ahmed, 1.1 ov),2-59(Ben Dunk, 4.4 ov),3-75(Mohammad Hafeez, 5.6 ov),4-81(Darren Stevens, 7.2 ov),5-82(Upul Tharanga, 8.1 ov),6-82(Phil Mustard, 8.2 ov),7-83(Thisara Perera, 8.4 ov),8-84(Neil Broom, 8.6 ov),9-92(Sohail Tanvir, 9.5 ov),10-92(Fidel Edwards, 9.6 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(w 3)",
+                    "3",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Abdur Rehman",
+                    "1",
+                    "0",
+                    "13",
+                    "0",
+                    "13.00",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sohail Khan",
+                    "2",
+                    "0",
+                    "15",
+                    "5",
+                    "7.50",
+                    "5",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Jerome Taylor",
+                    "2",
+                    "0",
+                    "24",
+                    "1",
+                    "12.00",
+                    "5",
+                    "2",
+                    "2",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Johan Botha",
+                    "2",
+                    "0",
+                    "18",
+                    "0",
+                    "9.00",
+                    "4",
+                    "1",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Umaid Asif",
+                    "2",
+                    "0",
+                    "14",
+                    "2",
+                    "7.00",
+                    "7",
+                    "1",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Shahid Afridi",
+                    "1",
+                    "0",
+                    "8",
+                    "2",
+                    "8.00",
+                    "3",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        }
     },
     {
         "match_start": "RESULT",
@@ -1334,1682 +2625,13 @@
         }
     },
     {
-        "match_start": "RESULT",
-        "match_id": "Final, Lauderhill, August 27, 2023, US Masters T10",
-        "match_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
-        "match_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
-        "match_scorecard_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
-        "match_scorecard_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
-        "team_1_name": "New York Warriors",
-        "team_2_name": "Texas Chargers",
-        "team_1_score": "92/6",
-        "result": "Match tied (Chargers won the one-over eliminator)",
-        "team_2_score": "(10 ov, T:93) 92",
-        "match_innings_1": {
-            "table_head": [
-                "New York Warriors\u00a0\u00a0(10 ovs maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Kamran Akmal\u2020",
-                    "b Edwards",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Tillakaratne Dilshan",
-                    "c Tharanga b Ehsan Adil",
-                    "18",
-                    "12",
-                    "-",
-                    "1",
-                    "1",
-                    "150.00"
-                ],
-                [
-                    "Richard Levi",
-                    "b Ehsan Adil",
-                    "17",
-                    "13",
-                    "-",
-                    "3",
-                    "0",
-                    "130.76"
-                ],
-                [
-                    "Misbah-ul-Haq(c)",
-                    "c Tharanga b Imran Khan",
-                    "5",
-                    "8",
-                    "-",
-                    "0",
-                    "0",
-                    "62.50"
-                ],
-                [
-                    "Shahid Afridi",
-                    "c Edwards b Ehsan Adil",
-                    "1",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "Abdul Razzaq",
-                    "c Stevens b Perera",
-                    "3",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "60.00"
-                ],
-                [
-                    "Jonathan Carter",
-                    "not out",
-                    "39",
-                    "17",
-                    "-",
-                    "3",
-                    "3",
-                    "229.41"
-                ],
-                [
-                    "Umaid Asif",
-                    "not out",
-                    "3",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "150.00"
-                ],
-                [
-                    "TOTAL",
-                    "10 Ov(RR: 9.20)",
-                    "92/6",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-0(Kamran Akmal, 0.1 ov),2-30(Richard Levi, 3.3 ov),3-41(Tillakaratne Dilshan, 5.1 ov),4-44(Shahid Afridi, 5.5 ov),5-44(Misbah-ul-Haq, 6.1 ov),6-62(Abdul Razzaq, 7.6 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 2, w 4)",
-                    "6",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Fidel Edwards",
-                    "2",
-                    "0",
-                    "21",
-                    "1",
-                    "10.50",
-                    "6",
-                    "3",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Imran Khan",
-                    "2",
-                    "0",
-                    "15",
-                    "1",
-                    "7.50",
-                    "5",
-                    "2",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Sohail Tanvir",
-                    "2",
-                    "0",
-                    "28",
-                    "0",
-                    "14.00",
-                    "1",
-                    "1",
-                    "2",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Ehsan Adil",
-                    "2",
-                    "0",
-                    "11",
-                    "3",
-                    "5.50",
-                    "6",
-                    "1",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Thisara Perera",
-                    "2",
-                    "0",
-                    "15",
-                    "1",
-                    "7.50",
-                    "2",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Texas Chargers\u00a0\u00a0(T: 93 runs from 10 ovs)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Mukhtar Ahmed",
-                    "b Sohail Khan",
-                    "6",
-                    "4",
-                    "-",
-                    "1",
-                    "0",
-                    "150.00"
-                ],
-                [
-                    "Mohammad Hafeez",
-                    "c sub (SK Patel) b Taylor",
-                    "46",
-                    "17",
-                    "-",
-                    "4",
-                    "4",
-                    "270.58"
-                ],
-                [
-                    "Ben Dunk(c)\u2020",
-                    "c Misbah-ul-Haq b Umaid Asif",
-                    "20",
-                    "12",
-                    "-",
-                    "1",
-                    "2",
-                    "166.66"
-                ],
-                [
-                    "Thisara Perera",
-                    "b Sohail Khan",
-                    "4",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "66.66"
-                ],
-                [
-                    "Darren Stevens",
-                    "lbw b Umaid Asif",
-                    "2",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "33.33"
-                ],
-                [
-                    "Upul Tharanga",
-                    "b Sohail Khan",
-                    "1",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "20.00"
-                ],
-                [
-                    "Phil Mustard",
-                    "b Sohail Khan",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Neil Broom",
-                    "c Shahid Afridi b Sohail Khan",
-                    "1",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "Sohail Tanvir",
-                    "st \u2020Kamran Akmal b Shahid Afridi",
-                    "8",
-                    "5",
-                    "-",
-                    "0",
-                    "1",
-                    "160.00"
-                ],
-                [
-                    "Ehsan Adil",
-                    "not out",
-                    "1",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Fidel Edwards",
-                    "lbw b Shahid Afridi",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "TOTAL",
-                    "10 Ov(RR: 9.20)",
-                    "92",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-13(Mukhtar Ahmed, 1.1 ov),2-59(Ben Dunk, 4.4 ov),3-75(Mohammad Hafeez, 5.6 ov),4-81(Darren Stevens, 7.2 ov),5-82(Upul Tharanga, 8.1 ov),6-82(Phil Mustard, 8.2 ov),7-83(Thisara Perera, 8.4 ov),8-84(Neil Broom, 8.6 ov),9-92(Sohail Tanvir, 9.5 ov),10-92(Fidel Edwards, 9.6 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(w 3)",
-                    "3",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Abdur Rehman",
-                    "1",
-                    "0",
-                    "13",
-                    "0",
-                    "13.00",
-                    "1",
-                    "1",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Sohail Khan",
-                    "2",
-                    "0",
-                    "15",
-                    "5",
-                    "7.50",
-                    "5",
-                    "1",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Jerome Taylor",
-                    "2",
-                    "0",
-                    "24",
-                    "1",
-                    "12.00",
-                    "5",
-                    "2",
-                    "2",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Johan Botha",
-                    "2",
-                    "0",
-                    "18",
-                    "0",
-                    "9.00",
-                    "4",
-                    "1",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Umaid Asif",
-                    "2",
-                    "0",
-                    "14",
-                    "2",
-                    "7.00",
-                    "7",
-                    "1",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Shahid Afridi",
-                    "1",
-                    "0",
-                    "8",
-                    "2",
-                    "8.00",
-                    "3",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "RESULT",
-        "match_id": "30th Match (D/N), Bengaluru, August 27, 2023, Maharaja T20 Trophy",
-        "match_link": "/series/maharaja-t20-trophy-2023-1390842/gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875/full-scorecard",
-        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875-full-scorecard",
-        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875/full-scorecard",
-        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-gulbarga-mystics-vs-mangalore-dragons-29th-match-1390875-full-scorecard",
-        "team_1_name": "Shivamogga Lions",
-        "team_2_name": "Bengaluru Blasters",
-        "team_1_score": "192/5",
-        "result": "Shivamogga won by 11 runs",
-        "team_2_score": "(20 ov, T:193) 181/8",
-        "match_innings_1": {
-            "table_head": [
-                "Shivamogga Lions\u00a0\u00a0(20 ovs maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Rohan Kadam",
-                    "c Agarwal b Sarfaraz Ashraf",
-                    "35",
-                    "26",
-                    "-",
-                    "5",
-                    "0",
-                    "134.61"
-                ],
-                [
-                    "Nihal Ullal\u2020",
-                    "c Aman Khan b Hegde",
-                    "10",
-                    "12",
-                    "-",
-                    "1",
-                    "0",
-                    "83.33"
-                ],
-                [
-                    "Vinay Sagar",
-                    "c Aman Khan b Mahesh",
-                    "32",
-                    "25",
-                    "-",
-                    "2",
-                    "1",
-                    "128.00"
-                ],
-                [
-                    "Rohit Kumar",
-                    "c Kumar b Mahesh",
-                    "8",
-                    "8",
-                    "-",
-                    "1",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Abhinav Manohar",
-                    "not out",
-                    "58",
-                    "25",
-                    "-",
-                    "2",
-                    "5",
-                    "232.00"
-                ],
-                [
-                    "Shreyas Gopal(c)",
-                    "b Mahesh",
-                    "43",
-                    "23",
-                    "-",
-                    "3",
-                    "2",
-                    "186.95"
-                ],
-                [
-                    "S Shivaraj",
-                    "not out",
-                    "4",
-                    "1",
-                    "-",
-                    "1",
-                    "0",
-                    "400.00"
-                ],
-                [
-                    "TOTAL",
-                    "20 Ov(RR: 9.60)",
-                    "192/5",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-22(Nihal Ullal, 3.5 ov),2-64(Rohan Kadam, 8.4 ov),3-85(Rohit Kumar, 11.4 ov),4-86(Vinay Sagar, 11.6 ov),5-188(Shreyas Gopal, 19.5 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(w 2)",
-                    "2",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "K Gaurav",
-                    "3",
-                    "0",
-                    "38",
-                    "0",
-                    "12.66",
-                    "4",
-                    "4",
-                    "2",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Shubhang Hegde",
-                    "4",
-                    "0",
-                    "28",
-                    "1",
-                    "7.00",
-                    "9",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "LR Kumar",
-                    "4",
-                    "0",
-                    "40",
-                    "0",
-                    "10.00",
-                    "3",
-                    "4",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Mohsin Khan",
-                    "1",
-                    "0",
-                    "11",
-                    "0",
-                    "11.00",
-                    "0",
-                    "1",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Sarfaraz Ashraf",
-                    "4",
-                    "0",
-                    "25",
-                    "1",
-                    "6.25",
-                    "7",
-                    "0",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Tanish Mahesh",
-                    "4",
-                    "0",
-                    "50",
-                    "3",
-                    "12.50",
-                    "4",
-                    "4",
-                    "3",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Bengaluru Blasters\u00a0\u00a0(T: 193 runs from 20 ovs)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "EJ Jasper",
-                    "c Kranthi Kumar b Pranav Bhatia",
-                    "22",
-                    "21",
-                    "-",
-                    "0",
-                    "2",
-                    "104.76"
-                ],
-                [
-                    "Mayank Agarwal(c)",
-                    "c Kranthi Kumar b Gopal",
-                    "14",
-                    "10",
-                    "-",
-                    "3",
-                    "0",
-                    "140.00"
-                ],
-                [
-                    "Dega Nischal",
-                    "run out (Kranthi Kumar/Sharath)",
-                    "68",
-                    "40",
-                    "-",
-                    "4",
-                    "4",
-                    "170.00"
-                ],
-                [
-                    "Pavan Deshpande",
-                    "run out (Rohit Kumar)",
-                    "8",
-                    "8",
-                    "-",
-                    "0",
-                    "1",
-                    "100.00"
-                ],
-                [
-                    "Shubhang Hegde",
-                    "c Somanna b Sharath",
-                    "15",
-                    "10",
-                    "-",
-                    "1",
-                    "1",
-                    "150.00"
-                ],
-                [
-                    "Suraj Ahuja\u2020",
-                    "c sub (Rohan Naveen) b Kranthi Kumar",
-                    "29",
-                    "19",
-                    "-",
-                    "2",
-                    "1",
-                    "152.63"
-                ],
-                [
-                    "Aman Khan",
-                    "c Shivaraj b Somanna",
-                    "10",
-                    "6",
-                    "-",
-                    "1",
-                    "0",
-                    "166.66"
-                ],
-                [
-                    "LR Kumar",
-                    "c sub (Rohan Naveen) b Somanna",
-                    "6",
-                    "4",
-                    "-",
-                    "0",
-                    "1",
-                    "150.00"
-                ],
-                [
-                    "Mohsin Khan",
-                    "not out",
-                    "1",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "K Gaurav",
-                    "not out",
-                    "1",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "TOTAL",
-                    "20 Ov(RR: 9.05)",
-                    "181/8",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-23(Mayank Agarwal, 2.6 ov),2-52(EJ Jasper, 6.6 ov),3-68(Pavan Deshpande, 9.2 ov),4-128(Shubhang Hegde, 14.2 ov),5-144(Dega Nischal, 16.1 ov),6-169(Suraj Ahuja, 18.4 ov),7-173(Aman Khan, 19.2 ov),8-180(LR Kumar, 19.5 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(w 7)",
-                    "7",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Shreyas Gopal",
-                    "4",
-                    "0",
-                    "25",
-                    "1",
-                    "6.25",
-                    "12",
-                    "1",
-                    "2",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Vasuki Koushik",
-                    "4",
-                    "0",
-                    "38",
-                    "0",
-                    "9.50",
-                    "7",
-                    "4",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "HS Sharath",
-                    "4",
-                    "0",
-                    "29",
-                    "1",
-                    "7.25",
-                    "9",
-                    "1",
-                    "1",
-                    "3",
-                    "0"
-                ],
-                [
-                    "Pranav Bhatia",
-                    "2",
-                    "0",
-                    "15",
-                    "1",
-                    "7.50",
-                    "3",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Kranthi Kumar",
-                    "4",
-                    "0",
-                    "50",
-                    "1",
-                    "12.50",
-                    "4",
-                    "3",
-                    "3",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Aditya Somanna",
-                    "2",
-                    "0",
-                    "24",
-                    "2",
-                    "12.00",
-                    "4",
-                    "2",
-                    "2",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "RESULT",
-        "match_id": "Final, Lord's, August 27, 2023, The Hundred Women's Competition",
-        "match_link": "/series/the-hundred-women-s-competition-2023-1355568/northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604/full-scorecard",
-        "match_link_slug": "-series-the-hundred-women-s-competition-2023-1355568-northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604-full-scorecard",
-        "match_scorecard_link": "/series/the-hundred-women-s-competition-2023-1355568/northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604/full-scorecard",
-        "match_scorecard_link_slug": "-series-the-hundred-women-s-competition-2023-1355568-northern-superchargers-women-vs-welsh-fire-women-eliminator-1355604-full-scorecard",
-        "team_1_name": "Brave",
-        "team_2_name": "N S-Chargers",
-        "team_1_score": "139/6",
-        "result": "Brave won by 34 runs",
-        "team_2_score": "(94/100 balls, T:140) 105",
-        "match_innings_1": {
-            "table_head": [
-                "Southern Brave (Women)\u00a0\u00a0(100 balls maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Smriti Mandhana",
-                    "c Kelly b Ballinger",
-                    "4",
-                    "2",
-                    "1",
-                    "1",
-                    "0",
-                    "200.00"
-                ],
-                [
-                    "Danni Wyatt",
-                    "run out (Cross)",
-                    "59",
-                    "38",
-                    "48",
-                    "9",
-                    "1",
-                    "155.26"
-                ],
-                [
-                    "Maia Bouchier",
-                    "c Armitage b Cross",
-                    "4",
-                    "7",
-                    "5",
-                    "0",
-                    "0",
-                    "57.14"
-                ],
-                [
-                    "Georgia Adams",
-                    "c Wareham b Higham",
-                    "27",
-                    "28",
-                    "46",
-                    "2",
-                    "0",
-                    "96.42"
-                ],
-                [
-                    "Freya Kemp",
-                    "b Cross",
-                    "31",
-                    "17",
-                    "16",
-                    "5",
-                    "0",
-                    "182.35"
-                ],
-                [
-                    "Chloe Tryon",
-                    "c Wareham b Cross",
-                    "9",
-                    "6",
-                    "12",
-                    "1",
-                    "0",
-                    "150.00"
-                ],
-                [
-                    "Maitlan Brown",
-                    "not out",
-                    "2",
-                    "2",
-                    "3",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Kalea Moore",
-                    "not out",
-                    "1",
-                    "1",
-                    "1",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "TOTAL",
-                    "100 balls(RPB: 1.39)",
-                    "139/6",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-4(Smriti Mandhana, 2b),2-8(Maia Bouchier, 9b),3-95(Danni Wyatt, 72b),4-105(Georgia Adams, 80b),5-136(Freya Kemp, 96b),6-137(Chloe Tryon, 98b)\u2022DRS"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(nb 2)",
-                    "2",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "B",
-                "0s",
-                "R",
-                "W",
-                "RPB",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Grace Ballinger",
-                    "20",
-                    "8",
-                    "28",
-                    "1",
-                    "1.40",
-                    "5",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Kate Cross",
-                    "20",
-                    "8",
-                    "21",
-                    "3",
-                    "1.05",
-                    "2",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Lucy Higham",
-                    "20",
-                    "8",
-                    "31",
-                    "1",
-                    "1.55",
-                    "5",
-                    "0",
-                    "0",
-                    "1"
-                ],
-                [
-                    "Alice Davidson-Richards",
-                    "20",
-                    "4",
-                    "31",
-                    "0",
-                    "1.55",
-                    "4",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Georgia Wareham",
-                    "20",
-                    "4",
-                    "28",
-                    "0",
-                    "1.40",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Northern Superchargers (Women)\u00a0\u00a0(T: 140 runs from 100 balls)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Marie Kelly",
-                    "b Bell",
-                    "0",
-                    "2",
-                    "2",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Jemimah Rodrigues",
-                    "c Adams b Moore",
-                    "24",
-                    "14",
-                    "52",
-                    "2",
-                    "0",
-                    "171.42"
-                ],
-                [
-                    "Phoebe Litchfield",
-                    "c Kemp b Bell",
-                    "13",
-                    "11",
-                    "7",
-                    "2",
-                    "0",
-                    "118.18"
-                ],
-                [
-                    "Hollie Armitage(c)",
-                    "st \u2020Southby b Moore",
-                    "11",
-                    "14",
-                    "12",
-                    "1",
-                    "0",
-                    "78.57"
-                ],
-                [
-                    "Bess Heath\u2020",
-                    "st \u2020Southby b Tryon",
-                    "13",
-                    "12",
-                    "11",
-                    "1",
-                    "1",
-                    "108.33"
-                ],
-                [
-                    "Alice Davidson-Richards",
-                    "lbw b Shrubsole",
-                    "3",
-                    "6",
-                    "7",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "Georgia Wareham",
-                    "c Bouchier b Tryon",
-                    "8",
-                    "7",
-                    "4",
-                    "1",
-                    "0",
-                    "114.28"
-                ],
-                [
-                    "Leah Dobson",
-                    "st \u2020Southby b Moore",
-                    "3",
-                    "10",
-                    "7",
-                    "0",
-                    "0",
-                    "30.00"
-                ],
-                [
-                    "Kate Cross",
-                    "not out",
-                    "12",
-                    "9",
-                    "16",
-                    "1",
-                    "0",
-                    "133.33"
-                ],
-                [
-                    "Lucy Higham",
-                    "c Moore b Bell",
-                    "12",
-                    "7",
-                    "9",
-                    "2",
-                    "0",
-                    "171.42"
-                ],
-                [
-                    "Grace Ballinger",
-                    "run out (Adams/Bell)",
-                    "0",
-                    "2",
-                    "3",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "TOTAL",
-                    "94 balls(RPB: 1.11)",
-                    "105",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-0(Marie Kelly, 2b),2-13(Phoebe Litchfield, 13b),3-35(Hollie Armitage, 31b),4-59(Bess Heath, 49b),5-66(Alice Davidson-Richards, 57b),6-75(Georgia Wareham, 65b),7-78(Jemimah Rodrigues, 73b),8-83(Leah Dobson, 79b),9-103(Lucy Higham, 91b),10-105(Grace Ballinger, 94b)\u2022DRS"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 2, w 4)",
-                    "6",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "B",
-                "0s",
-                "R",
-                "W",
-                "RPB",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Lauren Bell",
-                    "19",
-                    "13",
-                    "21",
-                    "3",
-                    "1.10",
-                    "3",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Anya Shrubsole",
-                    "15",
-                    "6",
-                    "18",
-                    "1",
-                    "1.20",
-                    "2",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Georgia Adams",
-                    "20",
-                    "8",
-                    "21",
-                    "0",
-                    "1.05",
-                    "1",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Chloe Tryon",
-                    "20",
-                    "7",
-                    "28",
-                    "2",
-                    "1.40",
-                    "4",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Kalea Moore",
-                    "20",
-                    "8",
-                    "15",
-                    "3",
-                    "0.75",
-                    "0",
-                    "0",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "Live",
-        "match_id": "1st unofficial Test, Brisbane, August 28 - 31, 2023, New Zealand A  tour of Australia",
-        "match_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/live-cricket-score",
-        "match_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-live-cricket-score",
-        "match_scorecard_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/full-scorecard",
-        "match_scorecard_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-full-scorecard",
-        "team_1_name": "New Zealand A",
-        "team_2_name": "Australia A",
-        "team_1_score": "147",
-        "result": "Day 1 - Australia A trail by 68 runs.",
-        "team_2_score": "(24.4 ov) 79/2",
-        "match_innings_1": {
-            "table_head": [
-                "New Zealand A\u00a01st Innings\u00a0"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Henry Cooper",
-                    "c \u2020Peirson b Steketee",
-                    "3",
-                    "16",
-                    "-",
-                    "0",
-                    "0",
-                    "18.75"
-                ],
-                [
-                    "Sean Solia",
-                    "b Buckingham",
-                    "20",
-                    "49",
-                    "-",
-                    "3",
-                    "0",
-                    "40.81"
-                ],
-                [
-                    "Nick Kelly",
-                    "c Bancroft b Steketee",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Tom Bruce(c)",
-                    "c Ward b Paris",
-                    "37",
-                    "59",
-                    "-",
-                    "5",
-                    "1",
-                    "62.71"
-                ],
-                [
-                    "Muhammad Abbas",
-                    "c \u2020Peirson b Buckingham",
-                    "0",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Josh Clarkson",
-                    "lbw b Buckingham",
-                    "0",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Cam Fletcher\u2020",
-                    "c Buckingham b Swepson",
-                    "24",
-                    "46",
-                    "-",
-                    "4",
-                    "0",
-                    "52.17"
-                ],
-                [
-                    "Scott Kuggeleijn",
-                    "c Jewell b Perry",
-                    "2",
-                    "17",
-                    "-",
-                    "0",
-                    "0",
-                    "11.76"
-                ],
-                [
-                    "Brett Randell",
-                    "not out",
-                    "34",
-                    "51",
-                    "-",
-                    "3",
-                    "1",
-                    "66.66"
-                ],
-                [
-                    "Ajaz Patel",
-                    "c Ward b Swepson",
-                    "11",
-                    "20",
-                    "-",
-                    "1",
-                    "0",
-                    "55.00"
-                ],
-                [
-                    "Jacob Duffy",
-                    "b Swepson",
-                    "6",
-                    "8",
-                    "-",
-                    "1",
-                    "0",
-                    "75.00"
-                ],
-                [
-                    "TOTAL",
-                    "44.5 Ov(RR: 3.27)",
-                    "147",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-4(Henry Cooper, 3.3 ov),2-4(Nick Kelly, 3.4 ov),3-63(Sean Solia, 18.6 ov),4-66(Muhammad Abbas, 20.5 ov),5-66(Tom Bruce, 21.1 ov),6-68(Josh Clarkson, 22.6 ov),7-79(Scott Kuggeleijn, 28.3 ov),8-110(Cam Fletcher, 36.4 ov),9-135(Ajaz Patel, 42.3 ov),10-147(Jacob Duffy, 44.5 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 1, nb 9)",
-                    "10",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Joel Paris",
-                    "11",
-                    "2",
-                    "34",
-                    "1",
-                    "3.09",
-                    "53",
-                    "4",
-                    "0",
-                    "0",
-                    "3"
-                ],
-                [
-                    "Mark Steketee",
-                    "9",
-                    "3",
-                    "29",
-                    "2",
-                    "3.22",
-                    "42",
-                    "3",
-                    "0",
-                    "0",
-                    "2"
-                ],
-                [
-                    "Jordan Buckingham",
-                    "11",
-                    "3",
-                    "29",
-                    "3",
-                    "2.63",
-                    "53",
-                    "3",
-                    "0",
-                    "0",
-                    "1"
-                ],
-                [
-                    "Mitchell Perry",
-                    "9",
-                    "1",
-                    "35",
-                    "1",
-                    "3.88",
-                    "43",
-                    "5",
-                    "1",
-                    "0",
-                    "3"
-                ],
-                [
-                    "Mitchell Swepson",
-                    "4.5",
-                    "1",
-                    "19",
-                    "3",
-                    "3.93",
-                    "23",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Australia A\u00a01st Innings\u00a0"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Cameron Bancroft",
-                    "c \u2020Fletcher b Kuggeleijn",
-                    "14",
-                    "50",
-                    "-",
-                    "1",
-                    "0",
-                    "28.00"
-                ],
-                [
-                    "Tim Ward",
-                    "c Bruce b Duffy",
-                    "16",
-                    "22",
-                    "-",
-                    "3",
-                    "0",
-                    "72.72"
-                ],
-                [
-                    "Caleb Jewell",
-                    "not out",
-                    "29",
-                    "44",
-                    "-",
-                    "5",
-                    "0",
-                    "65.90"
-                ],
-                [
-                    "Nathan McSweeney(c)",
-                    "not out",
-                    "14",
-                    "34",
-                    "-",
-                    "3",
-                    "0",
-                    "41.17"
-                ],
-                [
-                    "TOTAL",
-                    "24.4 Ov(RR: 3.20)",
-                    "79/2",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-23(Tim Ward, 6.1 ov),2-42(Cameron Bancroft, 15.2 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 4, nb 2)",
-                    "6",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Jacob Duffy",
-                    "7",
-                    "0",
-                    "20",
-                    "1",
-                    "2.85",
-                    "29",
-                    "2",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Brett Randell",
-                    "7",
-                    "2",
-                    "21",
-                    "0",
-                    "3.00",
-                    "35",
-                    "4",
-                    "0",
-                    "0",
-                    "2"
-                ],
-                [
-                    "Scott Kuggeleijn",
-                    "5",
-                    "2",
-                    "13",
-                    "1",
-                    "2.60",
-                    "25",
-                    "2",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Sean Solia",
-                    "5.4",
-                    "0",
-                    "21",
-                    "0",
-                    "3.70",
-                    "25",
-                    "4",
-                    "0",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
+        "match_id": "Semi-Final 1, Bengaluru, August 28, 2023, Maharaja T20 Trophy",
+        "match_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
+        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
+        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
+        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
+        "team_1_name": "Hubli Tigers",
+        "team_2_name": "Shivamogga Lions"
     },
     {
         "match_start": "RESULT",
@@ -3430,6 +3052,384 @@
                     "5",
                     "1",
                     "1",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "Live",
+        "match_id": "1st unofficial Test, Brisbane, August 28 - 31, 2023, New Zealand A  tour of Australia",
+        "match_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/live-cricket-score",
+        "match_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-live-cricket-score",
+        "match_scorecard_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/full-scorecard",
+        "match_scorecard_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-full-scorecard",
+        "team_1_name": "New Zealand A",
+        "team_2_name": "Australia A",
+        "team_1_score": "147",
+        "result": "Day 1 - Australia A trail by 68 runs.",
+        "team_2_score": "(24.4 ov) 79/2",
+        "match_innings_1": {
+            "table_head": [
+                "New Zealand A\u00a01st Innings\u00a0"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Henry Cooper",
+                    "c \u2020Peirson b Steketee",
+                    "3",
+                    "16",
+                    "-",
+                    "0",
+                    "0",
+                    "18.75"
+                ],
+                [
+                    "Sean Solia",
+                    "b Buckingham",
+                    "20",
+                    "49",
+                    "-",
+                    "3",
+                    "0",
+                    "40.81"
+                ],
+                [
+                    "Nick Kelly",
+                    "c Bancroft b Steketee",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Tom Bruce(c)",
+                    "c Ward b Paris",
+                    "37",
+                    "59",
+                    "-",
+                    "5",
+                    "1",
+                    "62.71"
+                ],
+                [
+                    "Muhammad Abbas",
+                    "c \u2020Peirson b Buckingham",
+                    "0",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Josh Clarkson",
+                    "lbw b Buckingham",
+                    "0",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Cam Fletcher\u2020",
+                    "c Buckingham b Swepson",
+                    "24",
+                    "46",
+                    "-",
+                    "4",
+                    "0",
+                    "52.17"
+                ],
+                [
+                    "Scott Kuggeleijn",
+                    "c Jewell b Perry",
+                    "2",
+                    "17",
+                    "-",
+                    "0",
+                    "0",
+                    "11.76"
+                ],
+                [
+                    "Brett Randell",
+                    "not out",
+                    "34",
+                    "51",
+                    "-",
+                    "3",
+                    "1",
+                    "66.66"
+                ],
+                [
+                    "Ajaz Patel",
+                    "c Ward b Swepson",
+                    "11",
+                    "20",
+                    "-",
+                    "1",
+                    "0",
+                    "55.00"
+                ],
+                [
+                    "Jacob Duffy",
+                    "b Swepson",
+                    "6",
+                    "8",
+                    "-",
+                    "1",
+                    "0",
+                    "75.00"
+                ],
+                [
+                    "TOTAL",
+                    "44.5 Ov(RR: 3.27)",
+                    "147",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-4(Henry Cooper, 3.3 ov),2-4(Nick Kelly, 3.4 ov),3-63(Sean Solia, 18.6 ov),4-66(Muhammad Abbas, 20.5 ov),5-66(Tom Bruce, 21.1 ov),6-68(Josh Clarkson, 22.6 ov),7-79(Scott Kuggeleijn, 28.3 ov),8-110(Cam Fletcher, 36.4 ov),9-135(Ajaz Patel, 42.3 ov),10-147(Jacob Duffy, 44.5 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 1, nb 9)",
+                    "10",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Joel Paris",
+                    "11",
+                    "2",
+                    "34",
+                    "1",
+                    "3.09",
+                    "53",
+                    "4",
+                    "0",
+                    "0",
+                    "3"
+                ],
+                [
+                    "Mark Steketee",
+                    "9",
+                    "3",
+                    "29",
+                    "2",
+                    "3.22",
+                    "42",
+                    "3",
+                    "0",
+                    "0",
+                    "2"
+                ],
+                [
+                    "Jordan Buckingham",
+                    "11",
+                    "3",
+                    "29",
+                    "3",
+                    "2.63",
+                    "53",
+                    "3",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                [
+                    "Mitchell Perry",
+                    "9",
+                    "1",
+                    "35",
+                    "1",
+                    "3.88",
+                    "43",
+                    "5",
+                    "1",
+                    "0",
+                    "3"
+                ],
+                [
+                    "Mitchell Swepson",
+                    "4.5",
+                    "1",
+                    "19",
+                    "3",
+                    "3.93",
+                    "23",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Australia A\u00a01st Innings\u00a0"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Cameron Bancroft",
+                    "c \u2020Fletcher b Kuggeleijn",
+                    "14",
+                    "50",
+                    "-",
+                    "1",
+                    "0",
+                    "28.00"
+                ],
+                [
+                    "Tim Ward",
+                    "c Bruce b Duffy",
+                    "16",
+                    "22",
+                    "-",
+                    "3",
+                    "0",
+                    "72.72"
+                ],
+                [
+                    "Caleb Jewell",
+                    "not out",
+                    "29",
+                    "44",
+                    "-",
+                    "5",
+                    "0",
+                    "65.90"
+                ],
+                [
+                    "Nathan McSweeney(c)",
+                    "not out",
+                    "14",
+                    "34",
+                    "-",
+                    "3",
+                    "0",
+                    "41.17"
+                ],
+                [
+                    "TOTAL",
+                    "24.4 Ov(RR: 3.20)",
+                    "79/2",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-23(Tim Ward, 6.1 ov),2-42(Cameron Bancroft, 15.2 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 4, nb 2)",
+                    "6",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Jacob Duffy",
+                    "7",
+                    "0",
+                    "20",
+                    "1",
+                    "2.85",
+                    "29",
+                    "2",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Brett Randell",
+                    "7",
+                    "2",
+                    "21",
+                    "0",
+                    "3.00",
+                    "35",
+                    "4",
+                    "0",
+                    "0",
+                    "2"
+                ],
+                [
+                    "Scott Kuggeleijn",
+                    "5",
+                    "2",
+                    "13",
+                    "1",
+                    "2.60",
+                    "25",
+                    "2",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sean Solia",
+                    "5.4",
+                    "0",
+                    "21",
+                    "0",
+                    "3.70",
+                    "25",
+                    "4",
+                    "0",
+                    "0",
                     "0"
                 ]
             ]
