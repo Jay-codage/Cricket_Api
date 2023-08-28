@@ -10,18 +10,19 @@ def collect_match_link():
         with open('match.json', 'r') as file:
             data = json.load(file)
             match_links = [item['match_link'] for item in data if item['match_link'].endswith('/live-cricket-score')]
-            return (match_links)
+            return match_links
     except (FileNotFoundError, json.JSONDecodeError):
         print(f"Error reading or processing ")
-        pass
+        return []
 
 def connect_to_website(url):
     try:
+        session = requests.session()
         start_time = time.time()
-        req = requests.get(f"{url}")
+        req = session.get(f"{url}")
         end_time = time.time()
         response_time = end_time - start_time
-        soup = BeautifulSoup(req.content, 'html.parser')
+        soup = BeautifulSoup(req.content, 'lxml')
         id = 1
         match_detail = {}
         for match_details in soup.find_all('div', class_='ds-px-4 ds-py-3 ds-border-b ds-border-line'):
@@ -148,7 +149,6 @@ def connect_to_website(url):
 
 def main():
     hostname = "www.espncricinfo.com"
-    urls = collect_match_link()
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         future_to_url = {executor.submit(connect_to_website, f"http://{hostname}{url}"): url for url in urls}
@@ -164,11 +164,11 @@ def main():
         with open("match_details.json", 'w') as f:
             f.write(json.dumps(out))
 
-
 if __name__ == '__main__':
     while True:
+        urls = collect_match_link()
         main()
-        time.sleep(8)
+        time.sleep(4)
 
 # for matches_links in soup.find('div',class_="ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide"):
 #     if matches_links.find('div',class_='ds-shrink-0'):

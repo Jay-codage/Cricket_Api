@@ -228,7 +228,7 @@ def connect_to_website(url):
 
             if match_details.find('strong', class_='ds-uppercase ds-text-tight-m'):
                 match_start = match_details.find('strong', class_='ds-uppercase ds-text-tight-m')
-                match_detail['match_id']=id
+                match_detail['match_id'] = id
                 match_detail['match_start'] = match_start.text
 
             if match_details.find('div', class_='ds-text-tight-m ds-font-regular ds-text-typo-mid3'):
@@ -239,13 +239,16 @@ def connect_to_website(url):
                 match_currently = soup.find('p', class_='ds-text-tight-m ds-font-regular ds-truncate ds-text-typo')
                 match_detail['status'] = match_currently.text
 
-            if match_details.find('div',class_='ds-text-tight-s ds-font-regular ds-overflow-x-auto ds-scrollbar-hide ds-whitespace-nowrap ds-mt-1 md:ds-mt-0 lg:ds-flex lg:ds-items-center lg:ds-justify-between lg:ds-px-4 lg:ds-py-2 lg:ds-bg-fill-content-alternate ds-text-typo-mid3 md:ds-text-typo-mid2'):
-                match_runrate = soup.find('div',class_='ds-text-tight-s ds-font-regular ds-overflow-x-auto ds-scrollbar-hide ds-whitespace-nowrap ds-mt-1 md:ds-mt-0 lg:ds-flex lg:ds-items-center lg:ds-justify-between lg:ds-px-4 lg:ds-py-2 lg:ds-bg-fill-content-alternate ds-text-typo-mid3 md:ds-text-typo-mid2')
+            if match_details.find('div',
+                                  class_='ds-text-tight-s ds-font-regular ds-overflow-x-auto ds-scrollbar-hide ds-whitespace-nowrap ds-mt-1 md:ds-mt-0 lg:ds-flex lg:ds-items-center lg:ds-justify-between lg:ds-px-4 lg:ds-py-2 lg:ds-bg-fill-content-alternate ds-text-typo-mid3 md:ds-text-typo-mid2'):
+                match_runrate = soup.find('div',
+                                          class_='ds-text-tight-s ds-font-regular ds-overflow-x-auto ds-scrollbar-hide ds-whitespace-nowrap ds-mt-1 md:ds-mt-0 lg:ds-flex lg:ds-items-center lg:ds-justify-between lg:ds-px-4 lg:ds-py-2 lg:ds-bg-fill-content-alternate ds-text-typo-mid3 md:ds-text-typo-mid2')
                 match_detail['ran_rate'] = match_runrate.text
 
-        for match in soup.find('div',class_='ds-relative ds-w-full ds-scrollbar-hide ds-border-t ds-border-line ds-px-2 ds-flex ds-bg-fill-content-prime ds-overflow-x-auto ds-scrollbar-hide'):
-            if match.find('div',class_='ds-shrink-0'):
-                matches = match.find('div',class_='ds-shrink-0')
+        for match in soup.find('div',
+                               class_='ds-relative ds-w-full ds-scrollbar-hide ds-border-t ds-border-line ds-px-2 ds-flex ds-bg-fill-content-prime ds-overflow-x-auto ds-scrollbar-hide'):
+            if match.find('div', class_='ds-shrink-0'):
+                matches = match.find('div', class_='ds-shrink-0')
                 if matches.find('a'):
                     match_links = matches.find('a')
                     match_linkes = match_links['href']
@@ -272,23 +275,27 @@ def connect_to_website(url):
         match_detail['team_1_name'] = team_name_dic['team_1_name']
         match_detail['team_2_name'] = team_name_dic['team_2_name']
 
-        if about_match.find('div',class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap'):
-            team_1_score = about_match.find('div',class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap')
+        if about_match.find('div', class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap'):
+            team_1_score = about_match.find('div',
+                                            class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap')
             match_detail['team_1_score'] = team_1_score.text
 
         if soup.find(class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap'):
-            for match_score in soup.find_all(class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap'):
+            for match_score in soup.find_all(
+                    class_='ds-text-compact-m ds-text-typo ds-text-right ds-whitespace-nowrap'):
                 team_2_score = match_score
 
             if team_1_score.text != team_2_score.text:
                 match_detail['team_2_score'] = team_2_score.text
 
-        if soup.find('thead',class_='ds-bg-fill-content-alternate ds-text-left ds-text-right ds-text-typo-mid3'):
-            batting_table = soup.find('thead',class_='ds-bg-fill-content-alternate ds-text-left ds-text-right ds-text-typo-mid3')
+        if soup.find('thead', class_='ds-bg-fill-content-alternate ds-text-left ds-text-right ds-text-typo-mid3'):
+            batting_table = soup.find('thead',
+                                      class_='ds-bg-fill-content-alternate ds-text-left ds-text-right ds-text-typo-mid3')
             batting_table_head_rows = batting_table.find_all('tr')
             for batting_head_row in batting_table_head_rows:
                 batting_head_columns = batting_head_row.find_all('th')
-                batting_table_head = [batting_head_column.get_text(strip=True) for batting_head_column in batting_head_columns]
+                batting_table_head = [batting_head_column.get_text(strip=True) for batting_head_column in
+                                      batting_head_columns]
 
                 match_detail['batting_head'] = batting_table_head
 
@@ -298,13 +305,16 @@ def connect_to_website(url):
             batting_table_body_rows = batting_body_table.find_all('tr')
             for batting_body_row in batting_table_body_rows:
                 batting_body_columns = batting_body_row.find_all('td')
-                batting_table_body = [batting_body_column.get_text(strip=True) for batting_body_column in batting_body_columns]
+                batting_table_body = [batting_body_column.get_text(strip=True) for batting_body_column in
+                                      batting_body_columns]
 
                 match_detail[f'batsman_name_{id}'] = batting_table_body
                 id += 1
 
-        if soup.find('div', class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line'):
-            match_partnership = soup.find('div',class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line')
+        if soup.find('div',
+                     class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line ds-text-typo-mid1'):
+            match_partnership = soup.find('div',
+                                          class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line ds-text-typo-mid1')
 
         if soup.find('div', class_='ds-flex ds-items-center ds-border-b ds-border-line'):
             match_reviews = soup.find('div', class_='ds-flex ds-items-center ds-border-b ds-border-line')
@@ -314,7 +324,8 @@ def connect_to_website(url):
             bowling_table_head_rows = bowling_table.find_all('tr')
             for bowling_head_row in bowling_table_head_rows:
                 bowling_head_columns = bowling_head_row.find_all('th')
-                bowling_table_head = [bowling_head_column.get_text(strip=True) for bowling_head_column in bowling_head_columns]
+                bowling_table_head = [bowling_head_column.get_text(strip=True) for bowling_head_column in
+                                      bowling_head_columns]
 
                 match_detail['bowling_head'] = bowling_table_head
 
@@ -324,14 +335,17 @@ def connect_to_website(url):
 
             match_detail['bowler_names'] = player_name
 
-        if soup.find('div', class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line'):
+        if soup.find('div',
+                     class_='ds-text-tight-s ds-font-regular ds-px-4 ds-py-2 ds-border-y ds-border-line ds-text-typo-mid1'):
             match_detail['partnership'] = match_partnership.text
 
         if soup.find('div', class_='ds-flex ds-items-center ds-border-b ds-border-line'):
             match_detail['reviews'] = match_reviews.text
 
-        if soup.find('div',class_='ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide ds-items-center ds-space-x-2'):
-            ball_data = soup.find('div',class_='ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide ds-items-center ds-space-x-2')
+        if soup.find('div',
+                     class_='ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide ds-items-center ds-space-x-2'):
+            ball_data = soup.find('div',
+                                  class_='ds-flex ds-flex-row ds-w-full ds-overflow-x-auto ds-scrollbar-hide ds-items-center ds-space-x-2')
             last_ball_list = []
             for data in ball_data.find_all('span'):
                 last_ball_list.append(data.text)
@@ -367,4 +381,4 @@ def main():
 if __name__ == '__main__':
     while True:
         main()
-        time.sleep(6)
+        time.sleep(4)

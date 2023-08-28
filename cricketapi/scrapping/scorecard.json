@@ -1,22 +1,415 @@
 [
     {
         "match_id": "Semi-Final 2 (D/N), Bengaluru, August 28, 2023, Maharaja T20 Trophy",
-        "match_link": "/series/maharaja-t20-trophy-2023-1390842/hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877/live-cricket-score",
-        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877-live-cricket-score",
+        "match_link": "/series/maharaja-t20-trophy-2023-1390842/hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877/full-scorecard",
+        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877-full-scorecard",
         "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877/full-scorecard",
         "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-hubli-tigers-vs-shivamogga-lions-semi-final-1-1390877-full-scorecard",
         "team_1_name": "Mysuru Warriors",
-        "team_2_name": "Gulbarga Mystics",
-        "result": "Match yet to begin"
+        "team_2_name": "Gulbarga Mystics"
     },
     {
-        "match_id": "2nd Youth ODI, Beckenham, August 28, 2023, Australia Under-19s tour of England",
-        "match_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
-        "match_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
-        "match_scorecard_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
-        "match_scorecard_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
-        "team_1_name": "England Under-19s",
-        "team_2_name": "Australia Under-19s"
+        "match_start": "RESULT",
+        "match_id": "Final (N), Lord's, August 27, 2023, The Hundred Men's Competition",
+        "match_link": "/series/the-hundred-men-s-competition-2023-1355567/manchester-originals-men-vs-southern-brave-men-eliminator-1355638/full-scorecard",
+        "match_link_slug": "-series-the-hundred-men-s-competition-2023-1355567-manchester-originals-men-vs-southern-brave-men-eliminator-1355638-full-scorecard",
+        "match_scorecard_link": "/series/the-hundred-men-s-competition-2023-1355567/manchester-originals-men-vs-southern-brave-men-eliminator-1355638/full-scorecard",
+        "match_scorecard_link_slug": "-series-the-hundred-men-s-competition-2023-1355567-manchester-originals-men-vs-southern-brave-men-eliminator-1355638-full-scorecard",
+        "team_1_name": "Oval Invincibles (Men)",
+        "team_2_name": "Manchester Originals (Men)",
+        "team_1_score": "161/5",
+        "result": "Invincibles won by 14 runs",
+        "team_2_score": "(100 balls, T:162) 147/6",
+        "match_innings_1": {
+            "table_head": [
+                "Oval Invincibles (Men)\u00a0\u00a0(100 balls maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Jason Roy",
+                    "c \u2020Buttler b Gleeson",
+                    "0",
+                    "3",
+                    "2",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Will Jacks",
+                    "c Walter b Hartley",
+                    "14",
+                    "14",
+                    "30",
+                    "2",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Paul Stirling",
+                    "c Walter b Gleeson",
+                    "5",
+                    "5",
+                    "8",
+                    "1",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Sam Curran",
+                    "c \u2020Buttler b Little",
+                    "0",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Sam Billings(c)\u2020",
+                    "c \u2020Buttler b Walter",
+                    "10",
+                    "11",
+                    "11",
+                    "2",
+                    "0",
+                    "90.90"
+                ],
+                [
+                    "James Neesham",
+                    "not out",
+                    "57",
+                    "33",
+                    "49",
+                    "7",
+                    "1",
+                    "172.72"
+                ],
+                [
+                    "Tom Curran",
+                    "not out",
+                    "67",
+                    "34",
+                    "44",
+                    "4",
+                    "5",
+                    "197.05"
+                ],
+                [
+                    "TOTAL",
+                    "100 balls(RPB: 1.61)",
+                    "161/5",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-0(Jason Roy, 3b),2-15(Paul Stirling, 15b),3-15(Sam Curran, 16b),4-28(Sam Billings, 30b),5-34(Will Jacks, 36b)\u2022DRS"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(b 2, lb 1, nb 2, w 3)",
+                    "8",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "B",
+                "0s",
+                "R",
+                "W",
+                "RPB",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Richard Gleeson",
+                    "20",
+                    "7",
+                    "37",
+                    "2",
+                    "1.85",
+                    "6",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Josh Little",
+                    "20",
+                    "11",
+                    "21",
+                    "1",
+                    "1.05",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Paul Walter",
+                    "15",
+                    "5",
+                    "20",
+                    "1",
+                    "1.33",
+                    "1",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Jamie Overton",
+                    "10",
+                    "3",
+                    "14",
+                    "0",
+                    "1.40",
+                    "0",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Tom Hartley",
+                    "20",
+                    "1",
+                    "35",
+                    "1",
+                    "1.75",
+                    "3",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Zaman Khan",
+                    "15",
+                    "4",
+                    "31",
+                    "0",
+                    "2.06",
+                    "4",
+                    "1",
+                    "0",
+                    "1"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Manchester Originals (Men)\u00a0\u00a0(T: 162 runs from 100 balls)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Phil Salt",
+                    "c SM Curran b TK Curran",
+                    "25",
+                    "16",
+                    "16",
+                    "4",
+                    "1",
+                    "156.25"
+                ],
+                [
+                    "Jos Buttler(c)\u2020",
+                    "b Briggs",
+                    "11",
+                    "15",
+                    "23",
+                    "1",
+                    "0",
+                    "73.33"
+                ],
+                [
+                    "Max Holden",
+                    "lbw b SM Curran",
+                    "37",
+                    "25",
+                    "46",
+                    "4",
+                    "1",
+                    "148.00"
+                ],
+                [
+                    "Wayne Madsen",
+                    "b Sowter",
+                    "4",
+                    "3",
+                    "2",
+                    "1",
+                    "0",
+                    "133.33"
+                ],
+                [
+                    "Laurie Evans",
+                    "c Sowter b Jacks",
+                    "1",
+                    "3",
+                    "4",
+                    "0",
+                    "0",
+                    "33.33"
+                ],
+                [
+                    "Paul Walter",
+                    "b Jacks",
+                    "7",
+                    "11",
+                    "13",
+                    "1",
+                    "0",
+                    "63.63"
+                ],
+                [
+                    "Jamie Overton",
+                    "not out",
+                    "28",
+                    "19",
+                    "33",
+                    "0",
+                    "1",
+                    "147.36"
+                ],
+                [
+                    "Tom Hartley",
+                    "not out",
+                    "16",
+                    "8",
+                    "14",
+                    "1",
+                    "1",
+                    "200.00"
+                ],
+                [
+                    "TOTAL",
+                    "100 balls(RPB: 1.47)",
+                    "147/6",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-34(Phil Salt, 22b),2-44(Jos Buttler, 34b),3-48(Wayne Madsen, 37b),4-51(Laurie Evans, 42b),5-72(Paul Walter, 61b),6-114(Max Holden, 83b)\u2022DRS"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 7, w 11)",
+                    "18",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "B",
+                "0s",
+                "R",
+                "W",
+                "RPB",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Sam Curran",
+                    "20",
+                    "4",
+                    "31",
+                    "1",
+                    "1.55",
+                    "1",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Gus Atkinson",
+                    "20",
+                    "6",
+                    "47",
+                    "0",
+                    "2.35",
+                    "6",
+                    "2",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Tom Curran",
+                    "20",
+                    "7",
+                    "25",
+                    "1",
+                    "1.25",
+                    "1",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Nathan Sowter",
+                    "20",
+                    "9",
+                    "24",
+                    "1",
+                    "1.20",
+                    "4",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Danny Briggs",
+                    "5",
+                    "3",
+                    "2",
+                    "1",
+                    "0.40",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Will Jacks",
+                    "15",
+                    "7",
+                    "11",
+                    "2",
+                    "0.73",
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ]
+            ]
+        }
     },
     {
         "match_start": "RESULT",
@@ -423,6 +816,616 @@
                     "0",
                     "1",
                     "1",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "RESULT",
+        "match_id": "1st Youth ODI, Dambulla, August 27, 2023, West Indies Under-19s tour of Sri Lanka",
+        "match_link": "/series/west-indies-under-19s-in-sri-lanka-2023-1394017/sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024/live-cricket-score",
+        "match_link_slug": "-series-west-indies-under-19s-in-sri-lanka-2023-1394017-sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024-live-cricket-score",
+        "match_scorecard_link": "/series/west-indies-under-19s-in-sri-lanka-2023-1394017/sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024/full-scorecard",
+        "match_scorecard_link_slug": "-series-west-indies-under-19s-in-sri-lanka-2023-1394017-sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024-full-scorecard",
+        "team_1_name": "West Indies Under-19s",
+        "team_2_name": "Sri Lanka Under-19s",
+        "team_1_score": "223",
+        "result": "SL Under-19s won by 6 wickets (with 41 balls remaining)",
+        "team_2_score": "(43.1/50 ov, T:224) 224/4",
+        "match_innings_1": {
+            "table_head": [
+                "West Indies Under-19s\u00a0\u00a0(50 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Adrian Weir",
+                    "c Rajapaksha b Lahiru",
+                    "32",
+                    "45",
+                    "-",
+                    "4",
+                    "2",
+                    "71.11"
+                ],
+                [
+                    "Stephan Pascal(c)",
+                    "c \u2020Shanmuganathan b Sanketh",
+                    "29",
+                    "36",
+                    "-",
+                    "4",
+                    "0",
+                    "80.55"
+                ],
+                [
+                    "Joshua Dorne",
+                    "b Tharupathi",
+                    "0",
+                    "3",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Jordan Johnson",
+                    "c Kalupahana b Sanketh",
+                    "18",
+                    "28",
+                    "-",
+                    "2",
+                    "0",
+                    "64.28"
+                ],
+                [
+                    "Steve Wedderburn",
+                    "b Sanketh",
+                    "0",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Jewel Andrew\u2020",
+                    "c Rajapaksha b Sanketh",
+                    "11",
+                    "25",
+                    "-",
+                    "0",
+                    "1",
+                    "44.00"
+                ],
+                [
+                    "Nathan Sealy",
+                    "b Sanketh",
+                    "75",
+                    "82",
+                    "-",
+                    "5",
+                    "3",
+                    "91.46"
+                ],
+                [
+                    "Tarrique Edward",
+                    "c & b Kalupahana",
+                    "27",
+                    "53",
+                    "-",
+                    "1",
+                    "0",
+                    "50.94"
+                ],
+                [
+                    "Nathan Edward",
+                    "c \u2020Shanmuganathan b Kalupahana",
+                    "9",
+                    "9",
+                    "-",
+                    "1",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Reon Edwards",
+                    "not out",
+                    "9",
+                    "10",
+                    "-",
+                    "1",
+                    "0",
+                    "90.00"
+                ],
+                [
+                    "Isai Thorne",
+                    "c Jayawardene b Kalupahana",
+                    "1",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "TOTAL",
+                    "49.1 Ov(RR: 4.53)",
+                    "223",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-58(Adrian Weir, 11.4 ov),2-59(Joshua Dorne, 12.4 ov),3-82(Stephan Pascal, 17.3 ov),4-82(Steve Wedderburn, 17.5 ov),5-87(Jordan Johnson, 21.6 ov),6-96(Jewel Andrew, 23.6 ov),7-170(Tarrique Edward, 41.2 ov),8-182(Nathan Edward, 43.3 ov),9-222(Nathan Sealy, 48.5 ov),10-223(Isai Thorne, 49.1 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 4, w 8)",
+                    "12",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Garuka Sanketh",
+                    "10",
+                    "0",
+                    "48",
+                    "5",
+                    "4.80",
+                    "38",
+                    "4",
+                    "2",
+                    "4",
+                    "0"
+                ],
+                [
+                    "Dinura Kalupahana",
+                    "8.1",
+                    "0",
+                    "45",
+                    "3",
+                    "5.51",
+                    "30",
+                    "6",
+                    "1",
+                    "3",
+                    "0"
+                ],
+                [
+                    "Vishwa Lahiru",
+                    "10",
+                    "3",
+                    "28",
+                    "1",
+                    "2.80",
+                    "39",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Malsha Tharupathi",
+                    "9",
+                    "0",
+                    "51",
+                    "1",
+                    "5.66",
+                    "29",
+                    "5",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Vihas Thewmika",
+                    "10",
+                    "0",
+                    "27",
+                    "0",
+                    "2.70",
+                    "40",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Vishwa Rajapaksha",
+                    "2",
+                    "0",
+                    "20",
+                    "0",
+                    "10.00",
+                    "4",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Sri Lanka Under-19s\u00a0\u00a0(T: 224 runs from 50 ovs)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Pulindu Perera",
+                    "c Pascal b Edwards",
+                    "11",
+                    "17",
+                    "-",
+                    "1",
+                    "1",
+                    "64.70"
+                ],
+                [
+                    "Sineth Jayawardene(c)",
+                    "c T Edward b N Edward",
+                    "0",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Ravishan Nethsara",
+                    "c Sealy b N Edward",
+                    "65",
+                    "85",
+                    "-",
+                    "7",
+                    "1",
+                    "76.47"
+                ],
+                [
+                    "Supun Waduge",
+                    "c T Edward b N Edward",
+                    "56",
+                    "78",
+                    "-",
+                    "8",
+                    "0",
+                    "71.79"
+                ],
+                [
+                    "Dinura Kalupahana",
+                    "not out",
+                    "52",
+                    "42",
+                    "-",
+                    "7",
+                    "1",
+                    "123.80"
+                ],
+                [
+                    "Sharujan Shanmuganathan\u2020",
+                    "not out",
+                    "20",
+                    "35",
+                    "-",
+                    "3",
+                    "0",
+                    "57.14"
+                ],
+                [
+                    "TOTAL",
+                    "43.1 Ov(RR: 5.18)",
+                    "224/4",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-5(Sineth Jayawardene, 2.1 ov),2-11(Pulindu Perera, 3.6 ov),3-145(Ravishan Nethsara, 29.4 ov),4-148(Supun Waduge, 31.1 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(w 20)",
+                    "20",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Nathan Edward",
+                    "8",
+                    "1",
+                    "43",
+                    "3",
+                    "5.37",
+                    "36",
+                    "7",
+                    "0",
+                    "4",
+                    "0"
+                ],
+                [
+                    "Reon Edwards",
+                    "8.1",
+                    "1",
+                    "49",
+                    "1",
+                    "6.00",
+                    "30",
+                    "6",
+                    "1",
+                    "4",
+                    "0"
+                ],
+                [
+                    "Nathan Sealy",
+                    "10",
+                    "0",
+                    "38",
+                    "0",
+                    "3.80",
+                    "36",
+                    "3",
+                    "0",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Isai Thorne",
+                    "8",
+                    "0",
+                    "44",
+                    "0",
+                    "5.50",
+                    "30",
+                    "5",
+                    "1",
+                    "5",
+                    "0"
+                ],
+                [
+                    "Tarrique Edward",
+                    "9",
+                    "0",
+                    "50",
+                    "0",
+                    "5.55",
+                    "28",
+                    "5",
+                    "1",
+                    "1",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "Live",
+        "match_id": "2nd Youth ODI, Beckenham, August 28, 2023, Australia Under-19s tour of England",
+        "match_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
+        "match_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
+        "match_scorecard_link": "/series/australia-under-19s-in-england-2023-1378852/england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856/full-scorecard",
+        "match_scorecard_link_slug": "-series-australia-under-19s-in-england-2023-1378852-england-under-19s-vs-australia-under-19s-1st-youth-odi-1378856-full-scorecard",
+        "team_1_name": "England Under-19s",
+        "team_2_name": "Australia Under-19s",
+        "team_1_score": "(24.1/50 ov) 126/4",
+        "result": "England U19 chose to bat.",
+        "match_innings_1": {
+            "table_head": [
+                "England Under-19s\u00a0\u00a0(50 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Henry Rogers",
+                    "c \u2020Aitken b Beardman",
+                    "6",
+                    "7",
+                    "8",
+                    "1",
+                    "0",
+                    "85.71"
+                ],
+                [
+                    "Ben McKinney(c)",
+                    "c \u2020Aitken b Bajwa",
+                    "28",
+                    "21",
+                    "45",
+                    "5",
+                    "0",
+                    "133.33"
+                ],
+                [
+                    "Luc Benkenstein",
+                    "c \u2020Aitken b Vidler",
+                    "14",
+                    "17",
+                    "20",
+                    "2",
+                    "0",
+                    "82.35"
+                ],
+                [
+                    "Hamza Shaikh",
+                    "not out",
+                    "37",
+                    "59",
+                    "65",
+                    "3",
+                    "0",
+                    "62.71"
+                ],
+                [
+                    "Noah Thain",
+                    "c & b Konstas",
+                    "12",
+                    "22",
+                    "26",
+                    "1",
+                    "0",
+                    "54.54"
+                ],
+                [
+                    "Jack Carney\u2020",
+                    "not out",
+                    "22",
+                    "19",
+                    "24",
+                    "1",
+                    "1",
+                    "115.78"
+                ],
+                [
+                    "TOTAL",
+                    "24.1 Ov(RR: 5.21)",
+                    "126/4",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-21(Henry Rogers, 2.1 ov),2-49(Luc Benkenstein, 6.5 ov),3-63(Ben McKinney, 9.5 ov),4-90(Noah Thain, 16.4 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 2, w 5)",
+                    "7",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Mahli Beardman",
+                    "3.1",
+                    "0",
+                    "24",
+                    "1",
+                    "7.57",
+                    "11",
+                    "3",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Tom Menzies",
+                    "6",
+                    "0",
+                    "37",
+                    "0",
+                    "6.16",
+                    "22",
+                    "7",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Callum Vidler",
+                    "5",
+                    "1",
+                    "12",
+                    "1",
+                    "2.40",
+                    "19",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Harkirat Bajwa",
+                    "6",
+                    "0",
+                    "33",
+                    "1",
+                    "5.50",
+                    "17",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sam Konstas",
+                    "4",
+                    "0",
+                    "18",
+                    "1",
+                    "4.50",
+                    "12",
+                    "1",
+                    "0",
+                    "0",
                     "0"
                 ]
             ]
@@ -1286,450 +2289,6 @@
     },
     {
         "match_start": "RESULT",
-        "match_id": "Final, Lauderhill, August 27, 2023, US Masters T10",
-        "match_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
-        "match_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
-        "match_scorecard_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
-        "match_scorecard_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
-        "team_1_name": "New York Warriors",
-        "team_2_name": "Texas Chargers",
-        "team_1_score": "92/6",
-        "result": "Match tied (Chargers won the one-over eliminator)",
-        "team_2_score": "(10 ov, T:93) 92",
-        "match_innings_1": {
-            "table_head": [
-                "New York Warriors\u00a0\u00a0(10 ovs maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Kamran Akmal\u2020",
-                    "b Edwards",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Tillakaratne Dilshan",
-                    "c Tharanga b Ehsan Adil",
-                    "18",
-                    "12",
-                    "-",
-                    "1",
-                    "1",
-                    "150.00"
-                ],
-                [
-                    "Richard Levi",
-                    "b Ehsan Adil",
-                    "17",
-                    "13",
-                    "-",
-                    "3",
-                    "0",
-                    "130.76"
-                ],
-                [
-                    "Misbah-ul-Haq(c)",
-                    "c Tharanga b Imran Khan",
-                    "5",
-                    "8",
-                    "-",
-                    "0",
-                    "0",
-                    "62.50"
-                ],
-                [
-                    "Shahid Afridi",
-                    "c Edwards b Ehsan Adil",
-                    "1",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "Abdul Razzaq",
-                    "c Stevens b Perera",
-                    "3",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "60.00"
-                ],
-                [
-                    "Jonathan Carter",
-                    "not out",
-                    "39",
-                    "17",
-                    "-",
-                    "3",
-                    "3",
-                    "229.41"
-                ],
-                [
-                    "Umaid Asif",
-                    "not out",
-                    "3",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "150.00"
-                ],
-                [
-                    "TOTAL",
-                    "10 Ov(RR: 9.20)",
-                    "92/6",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-0(Kamran Akmal, 0.1 ov),2-30(Richard Levi, 3.3 ov),3-41(Tillakaratne Dilshan, 5.1 ov),4-44(Shahid Afridi, 5.5 ov),5-44(Misbah-ul-Haq, 6.1 ov),6-62(Abdul Razzaq, 7.6 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 2, w 4)",
-                    "6",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Fidel Edwards",
-                    "2",
-                    "0",
-                    "21",
-                    "1",
-                    "10.50",
-                    "6",
-                    "3",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Imran Khan",
-                    "2",
-                    "0",
-                    "15",
-                    "1",
-                    "7.50",
-                    "5",
-                    "2",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Sohail Tanvir",
-                    "2",
-                    "0",
-                    "28",
-                    "0",
-                    "14.00",
-                    "1",
-                    "1",
-                    "2",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Ehsan Adil",
-                    "2",
-                    "0",
-                    "11",
-                    "3",
-                    "5.50",
-                    "6",
-                    "1",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Thisara Perera",
-                    "2",
-                    "0",
-                    "15",
-                    "1",
-                    "7.50",
-                    "2",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Texas Chargers\u00a0\u00a0(T: 93 runs from 10 ovs)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Mukhtar Ahmed",
-                    "b Sohail Khan",
-                    "6",
-                    "4",
-                    "-",
-                    "1",
-                    "0",
-                    "150.00"
-                ],
-                [
-                    "Mohammad Hafeez",
-                    "c sub (SK Patel) b Taylor",
-                    "46",
-                    "17",
-                    "-",
-                    "4",
-                    "4",
-                    "270.58"
-                ],
-                [
-                    "Ben Dunk(c)\u2020",
-                    "c Misbah-ul-Haq b Umaid Asif",
-                    "20",
-                    "12",
-                    "-",
-                    "1",
-                    "2",
-                    "166.66"
-                ],
-                [
-                    "Thisara Perera",
-                    "b Sohail Khan",
-                    "4",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "66.66"
-                ],
-                [
-                    "Darren Stevens",
-                    "lbw b Umaid Asif",
-                    "2",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "33.33"
-                ],
-                [
-                    "Upul Tharanga",
-                    "b Sohail Khan",
-                    "1",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "20.00"
-                ],
-                [
-                    "Phil Mustard",
-                    "b Sohail Khan",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Neil Broom",
-                    "c Shahid Afridi b Sohail Khan",
-                    "1",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "Sohail Tanvir",
-                    "st \u2020Kamran Akmal b Shahid Afridi",
-                    "8",
-                    "5",
-                    "-",
-                    "0",
-                    "1",
-                    "160.00"
-                ],
-                [
-                    "Ehsan Adil",
-                    "not out",
-                    "1",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Fidel Edwards",
-                    "lbw b Shahid Afridi",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "TOTAL",
-                    "10 Ov(RR: 9.20)",
-                    "92",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-13(Mukhtar Ahmed, 1.1 ov),2-59(Ben Dunk, 4.4 ov),3-75(Mohammad Hafeez, 5.6 ov),4-81(Darren Stevens, 7.2 ov),5-82(Upul Tharanga, 8.1 ov),6-82(Phil Mustard, 8.2 ov),7-83(Thisara Perera, 8.4 ov),8-84(Neil Broom, 8.6 ov),9-92(Sohail Tanvir, 9.5 ov),10-92(Fidel Edwards, 9.6 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(w 3)",
-                    "3",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Abdur Rehman",
-                    "1",
-                    "0",
-                    "13",
-                    "0",
-                    "13.00",
-                    "1",
-                    "1",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Sohail Khan",
-                    "2",
-                    "0",
-                    "15",
-                    "5",
-                    "7.50",
-                    "5",
-                    "1",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Jerome Taylor",
-                    "2",
-                    "0",
-                    "24",
-                    "1",
-                    "12.00",
-                    "5",
-                    "2",
-                    "2",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Johan Botha",
-                    "2",
-                    "0",
-                    "18",
-                    "0",
-                    "9.00",
-                    "4",
-                    "1",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Umaid Asif",
-                    "2",
-                    "0",
-                    "14",
-                    "2",
-                    "7.00",
-                    "7",
-                    "1",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Shahid Afridi",
-                    "1",
-                    "0",
-                    "8",
-                    "2",
-                    "8.00",
-                    "3",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "RESULT",
         "match_id": "11th Match, Basseterre, August 27, 2023, Caribbean Premier League",
         "match_link": "/series/caribbean-premier-league-2023-1369538/barbados-royals-vs-st-kitts-and-nevis-patriots-10th-match-1369567/full-scorecard",
         "match_link_slug": "-series-caribbean-premier-league-2023-1369538-barbados-royals-vs-st-kitts-and-nevis-patriots-10th-match-1369567-full-scorecard",
@@ -2223,1220 +2782,6 @@
     },
     {
         "match_start": "RESULT",
-        "match_id": "Final (N), Lord's, August 27, 2023, The Hundred Men's Competition",
-        "match_link": "/series/the-hundred-men-s-competition-2023-1355567/manchester-originals-men-vs-southern-brave-men-eliminator-1355638/full-scorecard",
-        "match_link_slug": "-series-the-hundred-men-s-competition-2023-1355567-manchester-originals-men-vs-southern-brave-men-eliminator-1355638-full-scorecard",
-        "match_scorecard_link": "/series/the-hundred-men-s-competition-2023-1355567/manchester-originals-men-vs-southern-brave-men-eliminator-1355638/full-scorecard",
-        "match_scorecard_link_slug": "-series-the-hundred-men-s-competition-2023-1355567-manchester-originals-men-vs-southern-brave-men-eliminator-1355638-full-scorecard",
-        "team_1_name": "Oval Invincibles (Men)",
-        "team_2_name": "Manchester Originals (Men)",
-        "team_1_score": "161/5",
-        "result": "Invincibles won by 14 runs",
-        "team_2_score": "(100 balls, T:162) 147/6",
-        "match_innings_1": {
-            "table_head": [
-                "Oval Invincibles (Men)\u00a0\u00a0(100 balls maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Jason Roy",
-                    "c \u2020Buttler b Gleeson",
-                    "0",
-                    "3",
-                    "2",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Will Jacks",
-                    "c Walter b Hartley",
-                    "14",
-                    "14",
-                    "30",
-                    "2",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Paul Stirling",
-                    "c Walter b Gleeson",
-                    "5",
-                    "5",
-                    "8",
-                    "1",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Sam Curran",
-                    "c \u2020Buttler b Little",
-                    "0",
-                    "1",
-                    "1",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Sam Billings(c)\u2020",
-                    "c \u2020Buttler b Walter",
-                    "10",
-                    "11",
-                    "11",
-                    "2",
-                    "0",
-                    "90.90"
-                ],
-                [
-                    "James Neesham",
-                    "not out",
-                    "57",
-                    "33",
-                    "49",
-                    "7",
-                    "1",
-                    "172.72"
-                ],
-                [
-                    "Tom Curran",
-                    "not out",
-                    "67",
-                    "34",
-                    "44",
-                    "4",
-                    "5",
-                    "197.05"
-                ],
-                [
-                    "TOTAL",
-                    "100 balls(RPB: 1.61)",
-                    "161/5",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-0(Jason Roy, 3b),2-15(Paul Stirling, 15b),3-15(Sam Curran, 16b),4-28(Sam Billings, 30b),5-34(Will Jacks, 36b)\u2022DRS"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(b 2, lb 1, nb 2, w 3)",
-                    "8",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "B",
-                "0s",
-                "R",
-                "W",
-                "RPB",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Richard Gleeson",
-                    "20",
-                    "7",
-                    "37",
-                    "2",
-                    "1.85",
-                    "6",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Josh Little",
-                    "20",
-                    "11",
-                    "21",
-                    "1",
-                    "1.05",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Paul Walter",
-                    "15",
-                    "5",
-                    "20",
-                    "1",
-                    "1.33",
-                    "1",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Jamie Overton",
-                    "10",
-                    "3",
-                    "14",
-                    "0",
-                    "1.40",
-                    "0",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Tom Hartley",
-                    "20",
-                    "1",
-                    "35",
-                    "1",
-                    "1.75",
-                    "3",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Zaman Khan",
-                    "15",
-                    "4",
-                    "31",
-                    "0",
-                    "2.06",
-                    "4",
-                    "1",
-                    "0",
-                    "1"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Manchester Originals (Men)\u00a0\u00a0(T: 162 runs from 100 balls)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Phil Salt",
-                    "c SM Curran b TK Curran",
-                    "25",
-                    "16",
-                    "16",
-                    "4",
-                    "1",
-                    "156.25"
-                ],
-                [
-                    "Jos Buttler(c)\u2020",
-                    "b Briggs",
-                    "11",
-                    "15",
-                    "23",
-                    "1",
-                    "0",
-                    "73.33"
-                ],
-                [
-                    "Max Holden",
-                    "lbw b SM Curran",
-                    "37",
-                    "25",
-                    "46",
-                    "4",
-                    "1",
-                    "148.00"
-                ],
-                [
-                    "Wayne Madsen",
-                    "b Sowter",
-                    "4",
-                    "3",
-                    "2",
-                    "1",
-                    "0",
-                    "133.33"
-                ],
-                [
-                    "Laurie Evans",
-                    "c Sowter b Jacks",
-                    "1",
-                    "3",
-                    "4",
-                    "0",
-                    "0",
-                    "33.33"
-                ],
-                [
-                    "Paul Walter",
-                    "b Jacks",
-                    "7",
-                    "11",
-                    "13",
-                    "1",
-                    "0",
-                    "63.63"
-                ],
-                [
-                    "Jamie Overton",
-                    "not out",
-                    "28",
-                    "19",
-                    "33",
-                    "0",
-                    "1",
-                    "147.36"
-                ],
-                [
-                    "Tom Hartley",
-                    "not out",
-                    "16",
-                    "8",
-                    "14",
-                    "1",
-                    "1",
-                    "200.00"
-                ],
-                [
-                    "TOTAL",
-                    "100 balls(RPB: 1.47)",
-                    "147/6",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-34(Phil Salt, 22b),2-44(Jos Buttler, 34b),3-48(Wayne Madsen, 37b),4-51(Laurie Evans, 42b),5-72(Paul Walter, 61b),6-114(Max Holden, 83b)\u2022DRS"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 7, w 11)",
-                    "18",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "B",
-                "0s",
-                "R",
-                "W",
-                "RPB",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Sam Curran",
-                    "20",
-                    "4",
-                    "31",
-                    "1",
-                    "1.55",
-                    "1",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Gus Atkinson",
-                    "20",
-                    "6",
-                    "47",
-                    "0",
-                    "2.35",
-                    "6",
-                    "2",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Tom Curran",
-                    "20",
-                    "7",
-                    "25",
-                    "1",
-                    "1.25",
-                    "1",
-                    "1",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Nathan Sowter",
-                    "20",
-                    "9",
-                    "24",
-                    "1",
-                    "1.20",
-                    "4",
-                    "0",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Danny Briggs",
-                    "5",
-                    "3",
-                    "2",
-                    "1",
-                    "0.40",
-                    "0",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Will Jacks",
-                    "15",
-                    "7",
-                    "11",
-                    "2",
-                    "0.73",
-                    "0",
-                    "0",
-                    "1",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_id": "Semi-Final 1, Bengaluru, August 28, 2023, Maharaja T20 Trophy",
-        "match_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
-        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
-        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
-        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
-        "team_1_name": "Hubli Tigers",
-        "team_2_name": "Shivamogga Lions"
-    },
-    {
-        "match_start": "RESULT",
-        "match_id": "1st Youth ODI, Dambulla, August 27, 2023, West Indies Under-19s tour of Sri Lanka",
-        "match_link": "/series/west-indies-under-19s-in-sri-lanka-2023-1394017/sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024/live-cricket-score",
-        "match_link_slug": "-series-west-indies-under-19s-in-sri-lanka-2023-1394017-sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024-live-cricket-score",
-        "match_scorecard_link": "/series/west-indies-under-19s-in-sri-lanka-2023-1394017/sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024/full-scorecard",
-        "match_scorecard_link_slug": "-series-west-indies-under-19s-in-sri-lanka-2023-1394017-sri-lanka-under-19s-vs-west-indies-under-19s-2nd-youth-odi-1394024-full-scorecard",
-        "team_1_name": "West Indies Under-19s",
-        "team_2_name": "Sri Lanka Under-19s",
-        "team_1_score": "223",
-        "result": "SL Under-19s won by 6 wickets (with 41 balls remaining)",
-        "team_2_score": "(43.1/50 ov, T:224) 224/4",
-        "match_innings_1": {
-            "table_head": [
-                "West Indies Under-19s\u00a0\u00a0(50 ovs maximum)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Adrian Weir",
-                    "c Rajapaksha b Lahiru",
-                    "32",
-                    "45",
-                    "-",
-                    "4",
-                    "2",
-                    "71.11"
-                ],
-                [
-                    "Stephan Pascal(c)",
-                    "c \u2020Shanmuganathan b Sanketh",
-                    "29",
-                    "36",
-                    "-",
-                    "4",
-                    "0",
-                    "80.55"
-                ],
-                [
-                    "Joshua Dorne",
-                    "b Tharupathi",
-                    "0",
-                    "3",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Jordan Johnson",
-                    "c Kalupahana b Sanketh",
-                    "18",
-                    "28",
-                    "-",
-                    "2",
-                    "0",
-                    "64.28"
-                ],
-                [
-                    "Steve Wedderburn",
-                    "b Sanketh",
-                    "0",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Jewel Andrew\u2020",
-                    "c Rajapaksha b Sanketh",
-                    "11",
-                    "25",
-                    "-",
-                    "0",
-                    "1",
-                    "44.00"
-                ],
-                [
-                    "Nathan Sealy",
-                    "b Sanketh",
-                    "75",
-                    "82",
-                    "-",
-                    "5",
-                    "3",
-                    "91.46"
-                ],
-                [
-                    "Tarrique Edward",
-                    "c & b Kalupahana",
-                    "27",
-                    "53",
-                    "-",
-                    "1",
-                    "0",
-                    "50.94"
-                ],
-                [
-                    "Nathan Edward",
-                    "c \u2020Shanmuganathan b Kalupahana",
-                    "9",
-                    "9",
-                    "-",
-                    "1",
-                    "0",
-                    "100.00"
-                ],
-                [
-                    "Reon Edwards",
-                    "not out",
-                    "9",
-                    "10",
-                    "-",
-                    "1",
-                    "0",
-                    "90.00"
-                ],
-                [
-                    "Isai Thorne",
-                    "c Jayawardene b Kalupahana",
-                    "1",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "50.00"
-                ],
-                [
-                    "TOTAL",
-                    "49.1 Ov(RR: 4.53)",
-                    "223",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-58(Adrian Weir, 11.4 ov),2-59(Joshua Dorne, 12.4 ov),3-82(Stephan Pascal, 17.3 ov),4-82(Steve Wedderburn, 17.5 ov),5-87(Jordan Johnson, 21.6 ov),6-96(Jewel Andrew, 23.6 ov),7-170(Tarrique Edward, 41.2 ov),8-182(Nathan Edward, 43.3 ov),9-222(Nathan Sealy, 48.5 ov),10-223(Isai Thorne, 49.1 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 4, w 8)",
-                    "12",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Garuka Sanketh",
-                    "10",
-                    "0",
-                    "48",
-                    "5",
-                    "4.80",
-                    "38",
-                    "4",
-                    "2",
-                    "4",
-                    "0"
-                ],
-                [
-                    "Dinura Kalupahana",
-                    "8.1",
-                    "0",
-                    "45",
-                    "3",
-                    "5.51",
-                    "30",
-                    "6",
-                    "1",
-                    "3",
-                    "0"
-                ],
-                [
-                    "Vishwa Lahiru",
-                    "10",
-                    "3",
-                    "28",
-                    "1",
-                    "2.80",
-                    "39",
-                    "1",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Malsha Tharupathi",
-                    "9",
-                    "0",
-                    "51",
-                    "1",
-                    "5.66",
-                    "29",
-                    "5",
-                    "1",
-                    "1",
-                    "0"
-                ],
-                [
-                    "Vihas Thewmika",
-                    "10",
-                    "0",
-                    "27",
-                    "0",
-                    "2.70",
-                    "40",
-                    "0",
-                    "1",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Vishwa Rajapaksha",
-                    "2",
-                    "0",
-                    "20",
-                    "0",
-                    "10.00",
-                    "4",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Sri Lanka Under-19s\u00a0\u00a0(T: 224 runs from 50 ovs)"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Pulindu Perera",
-                    "c Pascal b Edwards",
-                    "11",
-                    "17",
-                    "-",
-                    "1",
-                    "1",
-                    "64.70"
-                ],
-                [
-                    "Sineth Jayawardene(c)",
-                    "c T Edward b N Edward",
-                    "0",
-                    "2",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Ravishan Nethsara",
-                    "c Sealy b N Edward",
-                    "65",
-                    "85",
-                    "-",
-                    "7",
-                    "1",
-                    "76.47"
-                ],
-                [
-                    "Supun Waduge",
-                    "c T Edward b N Edward",
-                    "56",
-                    "78",
-                    "-",
-                    "8",
-                    "0",
-                    "71.79"
-                ],
-                [
-                    "Dinura Kalupahana",
-                    "not out",
-                    "52",
-                    "42",
-                    "-",
-                    "7",
-                    "1",
-                    "123.80"
-                ],
-                [
-                    "Sharujan Shanmuganathan\u2020",
-                    "not out",
-                    "20",
-                    "35",
-                    "-",
-                    "3",
-                    "0",
-                    "57.14"
-                ],
-                [
-                    "TOTAL",
-                    "43.1 Ov(RR: 5.18)",
-                    "224/4",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-5(Sineth Jayawardene, 2.1 ov),2-11(Pulindu Perera, 3.6 ov),3-145(Ravishan Nethsara, 29.4 ov),4-148(Supun Waduge, 31.1 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(w 20)",
-                    "20",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Nathan Edward",
-                    "8",
-                    "1",
-                    "43",
-                    "3",
-                    "5.37",
-                    "36",
-                    "7",
-                    "0",
-                    "4",
-                    "0"
-                ],
-                [
-                    "Reon Edwards",
-                    "8.1",
-                    "1",
-                    "49",
-                    "1",
-                    "6.00",
-                    "30",
-                    "6",
-                    "1",
-                    "4",
-                    "0"
-                ],
-                [
-                    "Nathan Sealy",
-                    "10",
-                    "0",
-                    "38",
-                    "0",
-                    "3.80",
-                    "36",
-                    "3",
-                    "0",
-                    "2",
-                    "0"
-                ],
-                [
-                    "Isai Thorne",
-                    "8",
-                    "0",
-                    "44",
-                    "0",
-                    "5.50",
-                    "30",
-                    "5",
-                    "1",
-                    "5",
-                    "0"
-                ],
-                [
-                    "Tarrique Edward",
-                    "9",
-                    "0",
-                    "50",
-                    "0",
-                    "5.55",
-                    "28",
-                    "5",
-                    "1",
-                    "1",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "Live",
-        "match_id": "1st unofficial Test, Brisbane, August 28 - 31, 2023, New Zealand A  tour of Australia",
-        "match_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/live-cricket-score",
-        "match_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-live-cricket-score",
-        "match_scorecard_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/full-scorecard",
-        "match_scorecard_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-full-scorecard",
-        "team_1_name": "New Zealand A",
-        "team_2_name": "Australia A",
-        "team_1_score": "147",
-        "result": "Day 1 - Australia A trail by 68 runs.",
-        "team_2_score": "(24.4 ov) 79/2",
-        "match_innings_1": {
-            "table_head": [
-                "New Zealand A\u00a01st Innings\u00a0"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Henry Cooper",
-                    "c \u2020Peirson b Steketee",
-                    "3",
-                    "16",
-                    "-",
-                    "0",
-                    "0",
-                    "18.75"
-                ],
-                [
-                    "Sean Solia",
-                    "b Buckingham",
-                    "20",
-                    "49",
-                    "-",
-                    "3",
-                    "0",
-                    "40.81"
-                ],
-                [
-                    "Nick Kelly",
-                    "c Bancroft b Steketee",
-                    "0",
-                    "1",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Tom Bruce(c)",
-                    "c Ward b Paris",
-                    "37",
-                    "59",
-                    "-",
-                    "5",
-                    "1",
-                    "62.71"
-                ],
-                [
-                    "Muhammad Abbas",
-                    "c \u2020Peirson b Buckingham",
-                    "0",
-                    "6",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Josh Clarkson",
-                    "lbw b Buckingham",
-                    "0",
-                    "5",
-                    "-",
-                    "0",
-                    "0",
-                    "0.00"
-                ],
-                [
-                    "Cam Fletcher\u2020",
-                    "c Buckingham b Swepson",
-                    "24",
-                    "46",
-                    "-",
-                    "4",
-                    "0",
-                    "52.17"
-                ],
-                [
-                    "Scott Kuggeleijn",
-                    "c Jewell b Perry",
-                    "2",
-                    "17",
-                    "-",
-                    "0",
-                    "0",
-                    "11.76"
-                ],
-                [
-                    "Brett Randell",
-                    "not out",
-                    "34",
-                    "51",
-                    "-",
-                    "3",
-                    "1",
-                    "66.66"
-                ],
-                [
-                    "Ajaz Patel",
-                    "c Ward b Swepson",
-                    "11",
-                    "20",
-                    "-",
-                    "1",
-                    "0",
-                    "55.00"
-                ],
-                [
-                    "Jacob Duffy",
-                    "b Swepson",
-                    "6",
-                    "8",
-                    "-",
-                    "1",
-                    "0",
-                    "75.00"
-                ],
-                [
-                    "TOTAL",
-                    "44.5 Ov(RR: 3.27)",
-                    "147",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-4(Henry Cooper, 3.3 ov),2-4(Nick Kelly, 3.4 ov),3-63(Sean Solia, 18.6 ov),4-66(Muhammad Abbas, 20.5 ov),5-66(Tom Bruce, 21.1 ov),6-68(Josh Clarkson, 22.6 ov),7-79(Scott Kuggeleijn, 28.3 ov),8-110(Cam Fletcher, 36.4 ov),9-135(Ajaz Patel, 42.3 ov),10-147(Jacob Duffy, 44.5 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 1, nb 9)",
-                    "10",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Joel Paris",
-                    "11",
-                    "2",
-                    "34",
-                    "1",
-                    "3.09",
-                    "53",
-                    "4",
-                    "0",
-                    "0",
-                    "3"
-                ],
-                [
-                    "Mark Steketee",
-                    "9",
-                    "3",
-                    "29",
-                    "2",
-                    "3.22",
-                    "42",
-                    "3",
-                    "0",
-                    "0",
-                    "2"
-                ],
-                [
-                    "Jordan Buckingham",
-                    "11",
-                    "3",
-                    "29",
-                    "3",
-                    "2.63",
-                    "53",
-                    "3",
-                    "0",
-                    "0",
-                    "1"
-                ],
-                [
-                    "Mitchell Perry",
-                    "9",
-                    "1",
-                    "35",
-                    "1",
-                    "3.88",
-                    "43",
-                    "5",
-                    "1",
-                    "0",
-                    "3"
-                ],
-                [
-                    "Mitchell Swepson",
-                    "4.5",
-                    "1",
-                    "19",
-                    "3",
-                    "3.93",
-                    "23",
-                    "2",
-                    "1",
-                    "0",
-                    "0"
-                ]
-            ]
-        },
-        "match_innings_2": {
-            "table_head": [
-                "Australia A\u00a01st Innings\u00a0"
-            ],
-            "batting_head": [
-                "BATTING",
-                "",
-                "R",
-                "B",
-                "M",
-                "4s",
-                "6s",
-                "SR"
-            ],
-            "batting": [
-                [
-                    "Cameron Bancroft",
-                    "c \u2020Fletcher b Kuggeleijn",
-                    "14",
-                    "50",
-                    "-",
-                    "1",
-                    "0",
-                    "28.00"
-                ],
-                [
-                    "Tim Ward",
-                    "c Bruce b Duffy",
-                    "16",
-                    "22",
-                    "-",
-                    "3",
-                    "0",
-                    "72.72"
-                ],
-                [
-                    "Caleb Jewell",
-                    "not out",
-                    "29",
-                    "44",
-                    "-",
-                    "5",
-                    "0",
-                    "65.90"
-                ],
-                [
-                    "Nathan McSweeney(c)",
-                    "not out",
-                    "14",
-                    "34",
-                    "-",
-                    "3",
-                    "0",
-                    "41.17"
-                ],
-                [
-                    "TOTAL",
-                    "24.4 Ov(RR: 3.20)",
-                    "79/2",
-                    ""
-                ],
-                [
-                    "Fall of wickets:1-23(Tim Ward, 6.1 ov),2-42(Cameron Bancroft, 15.2 ov)"
-                ]
-            ],
-            "extra": [
-                [
-                    "Extras",
-                    "(lb 4, nb 2)",
-                    "6",
-                    ""
-                ]
-            ],
-            "bowling_head": [
-                "BOWLING",
-                "O",
-                "M",
-                "R",
-                "W",
-                "ECON",
-                "0s",
-                "4s",
-                "6s",
-                "WD",
-                "NB"
-            ],
-            "bowling": [
-                [
-                    "Jacob Duffy",
-                    "7",
-                    "0",
-                    "20",
-                    "1",
-                    "2.85",
-                    "29",
-                    "2",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Brett Randell",
-                    "7",
-                    "2",
-                    "21",
-                    "0",
-                    "3.00",
-                    "35",
-                    "4",
-                    "0",
-                    "0",
-                    "2"
-                ],
-                [
-                    "Scott Kuggeleijn",
-                    "5",
-                    "2",
-                    "13",
-                    "1",
-                    "2.60",
-                    "25",
-                    "2",
-                    "0",
-                    "0",
-                    "0"
-                ],
-                [
-                    "Sean Solia",
-                    "5.4",
-                    "0",
-                    "21",
-                    "0",
-                    "3.70",
-                    "25",
-                    "4",
-                    "0",
-                    "0",
-                    "0"
-                ]
-            ]
-        }
-    },
-    {
-        "match_start": "RESULT",
         "match_id": "29th Match, Bengaluru, August 27, 2023, Maharaja T20 Trophy",
         "match_link": "/series/maharaja-t20-trophy-2023-1390842/gulbarga-mystics-vs-mysuru-warriors-28th-match-1390874/full-scorecard",
         "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-gulbarga-mystics-vs-mysuru-warriors-28th-match-1390874-full-scorecard",
@@ -3859,6 +3204,1261 @@
                     "0",
                     "2",
                     "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "RESULT",
+        "match_id": "Semi-Final 1, Bengaluru, August 28, 2023, Maharaja T20 Trophy",
+        "match_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
+        "match_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
+        "match_scorecard_link": "/series/maharaja-t20-trophy-2023-1390842/bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876/full-scorecard",
+        "match_scorecard_link_slug": "-series-maharaja-t20-trophy-2023-1390842-bengaluru-blasters-vs-shivamogga-lions-30th-match-1390876-full-scorecard",
+        "team_1_name": "Shivamogga Lions",
+        "team_2_name": "Hubli Tigers",
+        "team_1_score": "149/7",
+        "result": "Tigers won by 8 wickets (with 36 balls remaining)",
+        "team_2_score": "(14/20 ov, T:150) 153/2",
+        "match_innings_1": {
+            "table_head": [
+                "Shivamogga Lions\u00a0\u00a0(20 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Rohan Kadam",
+                    "c Cariappa b Manvanth Kumar",
+                    "54",
+                    "44",
+                    "-",
+                    "5",
+                    "2",
+                    "122.72"
+                ],
+                [
+                    "Nihal Ullal\u2020",
+                    "c Manvanth Kumar b Mitrakanth Singh",
+                    "7",
+                    "12",
+                    "-",
+                    "0",
+                    "0",
+                    "58.33"
+                ],
+                [
+                    "Vinay Sagar",
+                    "run out (Pandey/\u2020Ashwin)",
+                    "13",
+                    "15",
+                    "-",
+                    "0",
+                    "0",
+                    "86.66"
+                ],
+                [
+                    "Abhinav Manohar",
+                    "c & b Dubey",
+                    "2",
+                    "4",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "HS Sharath",
+                    "b Kaushal",
+                    "18",
+                    "16",
+                    "-",
+                    "0",
+                    "2",
+                    "112.50"
+                ],
+                [
+                    "Shreyas Gopal(c)",
+                    "c Dubey b Manvanth Kumar",
+                    "16",
+                    "13",
+                    "-",
+                    "0",
+                    "1",
+                    "123.07"
+                ],
+                [
+                    "S Shivaraj",
+                    "c Dubey b Kaushal",
+                    "6",
+                    "5",
+                    "-",
+                    "1",
+                    "0",
+                    "120.00"
+                ],
+                [
+                    "Kranthi Kumar",
+                    "not out",
+                    "9",
+                    "5",
+                    "-",
+                    "0",
+                    "1",
+                    "180.00"
+                ],
+                [
+                    "Pranav Bhatia",
+                    "not out",
+                    "16",
+                    "7",
+                    "-",
+                    "2",
+                    "1",
+                    "228.57"
+                ],
+                [
+                    "TOTAL",
+                    "20 Ov(RR: 7.45)",
+                    "149/7",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-39(Nihal Ullal, 6.3 ov),2-77(Rohan Kadam, 11.4 ov),3-79(Vinay Sagar, 12.2 ov),4-80(Abhinav Manohar, 12.4 ov),5-117(HS Sharath, 16.6 ov),6-117(Shreyas Gopal, 17.1 ov),7-125(S Shivaraj, 18.2 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(b 2, nb 1, w 5)",
+                    "8",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Lavish Kaushal",
+                    "4",
+                    "0",
+                    "32",
+                    "2",
+                    "8.00",
+                    "12",
+                    "3",
+                    "2",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Vidwath Kaverappa",
+                    "3",
+                    "1",
+                    "28",
+                    "0",
+                    "9.33",
+                    "9",
+                    "1",
+                    "2",
+                    "3",
+                    "1"
+                ],
+                [
+                    "Mitrakanth Singh",
+                    "3",
+                    "0",
+                    "24",
+                    "1",
+                    "8.00",
+                    "4",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "KC Cariappa",
+                    "3",
+                    "0",
+                    "22",
+                    "0",
+                    "7.33",
+                    "6",
+                    "1",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "MB Darshan",
+                    "1",
+                    "0",
+                    "5",
+                    "0",
+                    "5.00",
+                    "2",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Praveen Dubey",
+                    "2",
+                    "0",
+                    "7",
+                    "1",
+                    "3.50",
+                    "5",
+                    "0",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Manvanth Kumar",
+                    "4",
+                    "0",
+                    "29",
+                    "2",
+                    "7.25",
+                    "8",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Hubli Tigers\u00a0\u00a0(T: 150 runs from 20 ovs)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Luvnith Sisodia",
+                    "c Shivaraj b Koushik",
+                    "13",
+                    "5",
+                    "-",
+                    "0",
+                    "2",
+                    "260.00"
+                ],
+                [
+                    "Mohammed Taha",
+                    "c \u2020Ullal b Nischith Rao",
+                    "69",
+                    "38",
+                    "-",
+                    "1",
+                    "8",
+                    "181.57"
+                ],
+                [
+                    "Krishnan Shrijith",
+                    "not out",
+                    "61",
+                    "39",
+                    "-",
+                    "7",
+                    "2",
+                    "156.41"
+                ],
+                [
+                    "Sanjay Ashwin\u2020",
+                    "not out",
+                    "2",
+                    "4",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "TOTAL",
+                    "14 Ov(RR: 10.92)",
+                    "153/2",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-19(Luvnith Sisodia, 1.1 ov),2-133(Mohammed Taha, 12.2 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(nb 2, w 6)",
+                    "8",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Shreyas Gopal",
+                    "1",
+                    "0",
+                    "19",
+                    "0",
+                    "19.00",
+                    "2",
+                    "0",
+                    "3",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Vasuki Koushik",
+                    "2",
+                    "0",
+                    "17",
+                    "1",
+                    "8.50",
+                    "4",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Nischith Rao",
+                    "3",
+                    "0",
+                    "24",
+                    "1",
+                    "8.00",
+                    "8",
+                    "1",
+                    "2",
+                    "1",
+                    "0"
+                ],
+                [
+                    "HS Sharath",
+                    "2",
+                    "0",
+                    "32",
+                    "0",
+                    "16.00",
+                    "3",
+                    "0",
+                    "4",
+                    "1",
+                    "2"
+                ],
+                [
+                    "Pranav Bhatia",
+                    "4",
+                    "0",
+                    "45",
+                    "0",
+                    "11.25",
+                    "6",
+                    "5",
+                    "2",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Kranthi Kumar",
+                    "2",
+                    "0",
+                    "16",
+                    "0",
+                    "8.00",
+                    "3",
+                    "1",
+                    "0",
+                    "4",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "RESULT",
+        "match_id": "Final, Lauderhill, August 27, 2023, US Masters T10",
+        "match_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
+        "match_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
+        "match_scorecard_link": "/series/us-masters-t10-2023-1392256/california-knights-vs-texas-chargers-qualifier-2-1392280/full-scorecard",
+        "match_scorecard_link_slug": "-series-us-masters-t10-2023-1392256-california-knights-vs-texas-chargers-qualifier-2-1392280-full-scorecard",
+        "team_1_name": "New York Warriors",
+        "team_2_name": "Texas Chargers",
+        "team_1_score": "92/6",
+        "result": "Match tied (Chargers won the one-over eliminator)",
+        "team_2_score": "(10 ov, T:93) 92",
+        "match_innings_1": {
+            "table_head": [
+                "New York Warriors\u00a0\u00a0(10 ovs maximum)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Kamran Akmal\u2020",
+                    "b Edwards",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Tillakaratne Dilshan",
+                    "c Tharanga b Ehsan Adil",
+                    "18",
+                    "12",
+                    "-",
+                    "1",
+                    "1",
+                    "150.00"
+                ],
+                [
+                    "Richard Levi",
+                    "b Ehsan Adil",
+                    "17",
+                    "13",
+                    "-",
+                    "3",
+                    "0",
+                    "130.76"
+                ],
+                [
+                    "Misbah-ul-Haq(c)",
+                    "c Tharanga b Imran Khan",
+                    "5",
+                    "8",
+                    "-",
+                    "0",
+                    "0",
+                    "62.50"
+                ],
+                [
+                    "Shahid Afridi",
+                    "c Edwards b Ehsan Adil",
+                    "1",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Abdul Razzaq",
+                    "c Stevens b Perera",
+                    "3",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "60.00"
+                ],
+                [
+                    "Jonathan Carter",
+                    "not out",
+                    "39",
+                    "17",
+                    "-",
+                    "3",
+                    "3",
+                    "229.41"
+                ],
+                [
+                    "Umaid Asif",
+                    "not out",
+                    "3",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "150.00"
+                ],
+                [
+                    "TOTAL",
+                    "10 Ov(RR: 9.20)",
+                    "92/6",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-0(Kamran Akmal, 0.1 ov),2-30(Richard Levi, 3.3 ov),3-41(Tillakaratne Dilshan, 5.1 ov),4-44(Shahid Afridi, 5.5 ov),5-44(Misbah-ul-Haq, 6.1 ov),6-62(Abdul Razzaq, 7.6 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 2, w 4)",
+                    "6",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Fidel Edwards",
+                    "2",
+                    "0",
+                    "21",
+                    "1",
+                    "10.50",
+                    "6",
+                    "3",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Imran Khan",
+                    "2",
+                    "0",
+                    "15",
+                    "1",
+                    "7.50",
+                    "5",
+                    "2",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Sohail Tanvir",
+                    "2",
+                    "0",
+                    "28",
+                    "0",
+                    "14.00",
+                    "1",
+                    "1",
+                    "2",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Ehsan Adil",
+                    "2",
+                    "0",
+                    "11",
+                    "3",
+                    "5.50",
+                    "6",
+                    "1",
+                    "0",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Thisara Perera",
+                    "2",
+                    "0",
+                    "15",
+                    "1",
+                    "7.50",
+                    "2",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Texas Chargers\u00a0\u00a0(T: 93 runs from 10 ovs)"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Mukhtar Ahmed",
+                    "b Sohail Khan",
+                    "6",
+                    "4",
+                    "-",
+                    "1",
+                    "0",
+                    "150.00"
+                ],
+                [
+                    "Mohammad Hafeez",
+                    "c sub (SK Patel) b Taylor",
+                    "46",
+                    "17",
+                    "-",
+                    "4",
+                    "4",
+                    "270.58"
+                ],
+                [
+                    "Ben Dunk(c)\u2020",
+                    "c Misbah-ul-Haq b Umaid Asif",
+                    "20",
+                    "12",
+                    "-",
+                    "1",
+                    "2",
+                    "166.66"
+                ],
+                [
+                    "Thisara Perera",
+                    "b Sohail Khan",
+                    "4",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "66.66"
+                ],
+                [
+                    "Darren Stevens",
+                    "lbw b Umaid Asif",
+                    "2",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "33.33"
+                ],
+                [
+                    "Upul Tharanga",
+                    "b Sohail Khan",
+                    "1",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "20.00"
+                ],
+                [
+                    "Phil Mustard",
+                    "b Sohail Khan",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Neil Broom",
+                    "c Shahid Afridi b Sohail Khan",
+                    "1",
+                    "2",
+                    "-",
+                    "0",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Sohail Tanvir",
+                    "st \u2020Kamran Akmal b Shahid Afridi",
+                    "8",
+                    "5",
+                    "-",
+                    "0",
+                    "1",
+                    "160.00"
+                ],
+                [
+                    "Ehsan Adil",
+                    "not out",
+                    "1",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "100.00"
+                ],
+                [
+                    "Fidel Edwards",
+                    "lbw b Shahid Afridi",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "TOTAL",
+                    "10 Ov(RR: 9.20)",
+                    "92",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-13(Mukhtar Ahmed, 1.1 ov),2-59(Ben Dunk, 4.4 ov),3-75(Mohammad Hafeez, 5.6 ov),4-81(Darren Stevens, 7.2 ov),5-82(Upul Tharanga, 8.1 ov),6-82(Phil Mustard, 8.2 ov),7-83(Thisara Perera, 8.4 ov),8-84(Neil Broom, 8.6 ov),9-92(Sohail Tanvir, 9.5 ov),10-92(Fidel Edwards, 9.6 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(w 3)",
+                    "3",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Abdur Rehman",
+                    "1",
+                    "0",
+                    "13",
+                    "0",
+                    "13.00",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sohail Khan",
+                    "2",
+                    "0",
+                    "15",
+                    "5",
+                    "7.50",
+                    "5",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Jerome Taylor",
+                    "2",
+                    "0",
+                    "24",
+                    "1",
+                    "12.00",
+                    "5",
+                    "2",
+                    "2",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Johan Botha",
+                    "2",
+                    "0",
+                    "18",
+                    "0",
+                    "9.00",
+                    "4",
+                    "1",
+                    "1",
+                    "2",
+                    "0"
+                ],
+                [
+                    "Umaid Asif",
+                    "2",
+                    "0",
+                    "14",
+                    "2",
+                    "7.00",
+                    "7",
+                    "1",
+                    "1",
+                    "1",
+                    "0"
+                ],
+                [
+                    "Shahid Afridi",
+                    "1",
+                    "0",
+                    "8",
+                    "2",
+                    "8.00",
+                    "3",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        }
+    },
+    {
+        "match_start": "Stumps",
+        "match_id": "1st unofficial Test, Brisbane, August 28 - 31, 2023, New Zealand A  tour of Australia",
+        "match_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/live-cricket-score",
+        "match_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-live-cricket-score",
+        "match_scorecard_link": "/series/new-zealand-a-in-australia-2023-1392778/australia-a-vs-new-zealand-a-1st-unofficial-test-1392783/full-scorecard",
+        "match_scorecard_link_slug": "-series-new-zealand-a-in-australia-2023-1392778-australia-a-vs-new-zealand-a-1st-unofficial-test-1392783-full-scorecard",
+        "team_1_name": "New Zealand A",
+        "team_2_name": "Australia A",
+        "team_1_score": "147",
+        "result": "Day 1 - Australia A trail by 6 runs.",
+        "team_2_score": "(39 ov) 141/3",
+        "match_innings_1": {
+            "table_head": [
+                "New Zealand A\u00a01st Innings\u00a0"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Henry Cooper",
+                    "c \u2020Peirson b Steketee",
+                    "3",
+                    "16",
+                    "-",
+                    "0",
+                    "0",
+                    "18.75"
+                ],
+                [
+                    "Sean Solia",
+                    "b Buckingham",
+                    "20",
+                    "49",
+                    "-",
+                    "3",
+                    "0",
+                    "40.81"
+                ],
+                [
+                    "Nick Kelly",
+                    "c Bancroft b Steketee",
+                    "0",
+                    "1",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Tom Bruce(c)",
+                    "c Ward b Paris",
+                    "37",
+                    "59",
+                    "-",
+                    "5",
+                    "1",
+                    "62.71"
+                ],
+                [
+                    "Muhammad Abbas",
+                    "c \u2020Peirson b Buckingham",
+                    "0",
+                    "6",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Josh Clarkson",
+                    "lbw b Buckingham",
+                    "0",
+                    "5",
+                    "-",
+                    "0",
+                    "0",
+                    "0.00"
+                ],
+                [
+                    "Cam Fletcher\u2020",
+                    "c Buckingham b Swepson",
+                    "24",
+                    "46",
+                    "-",
+                    "4",
+                    "0",
+                    "52.17"
+                ],
+                [
+                    "Scott Kuggeleijn",
+                    "c Jewell b Perry",
+                    "2",
+                    "17",
+                    "-",
+                    "0",
+                    "0",
+                    "11.76"
+                ],
+                [
+                    "Brett Randell",
+                    "not out",
+                    "34",
+                    "51",
+                    "-",
+                    "3",
+                    "1",
+                    "66.66"
+                ],
+                [
+                    "Ajaz Patel",
+                    "c Ward b Swepson",
+                    "11",
+                    "20",
+                    "-",
+                    "1",
+                    "0",
+                    "55.00"
+                ],
+                [
+                    "Jacob Duffy",
+                    "b Swepson",
+                    "6",
+                    "8",
+                    "-",
+                    "1",
+                    "0",
+                    "75.00"
+                ],
+                [
+                    "TOTAL",
+                    "44.5 Ov(RR: 3.27)",
+                    "147",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-4(Henry Cooper, 3.3 ov),2-4(Nick Kelly, 3.4 ov),3-63(Sean Solia, 18.6 ov),4-66(Muhammad Abbas, 20.5 ov),5-66(Tom Bruce, 21.1 ov),6-68(Josh Clarkson, 22.6 ov),7-79(Scott Kuggeleijn, 28.3 ov),8-110(Cam Fletcher, 36.4 ov),9-135(Ajaz Patel, 42.3 ov),10-147(Jacob Duffy, 44.5 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 1, nb 9)",
+                    "10",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Joel Paris",
+                    "11",
+                    "2",
+                    "34",
+                    "1",
+                    "3.09",
+                    "53",
+                    "4",
+                    "0",
+                    "0",
+                    "3"
+                ],
+                [
+                    "Mark Steketee",
+                    "9",
+                    "3",
+                    "29",
+                    "2",
+                    "3.22",
+                    "42",
+                    "3",
+                    "0",
+                    "0",
+                    "2"
+                ],
+                [
+                    "Jordan Buckingham",
+                    "11",
+                    "3",
+                    "29",
+                    "3",
+                    "2.63",
+                    "53",
+                    "3",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                [
+                    "Mitchell Perry",
+                    "9",
+                    "1",
+                    "35",
+                    "1",
+                    "3.88",
+                    "43",
+                    "5",
+                    "1",
+                    "0",
+                    "3"
+                ],
+                [
+                    "Mitchell Swepson",
+                    "4.5",
+                    "1",
+                    "19",
+                    "3",
+                    "3.93",
+                    "23",
+                    "2",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        },
+        "match_innings_2": {
+            "table_head": [
+                "Australia A\u00a01st Innings\u00a0"
+            ],
+            "batting_head": [
+                "BATTING",
+                "",
+                "R",
+                "B",
+                "M",
+                "4s",
+                "6s",
+                "SR"
+            ],
+            "batting": [
+                [
+                    "Cameron Bancroft",
+                    "c \u2020Fletcher b Kuggeleijn",
+                    "14",
+                    "50",
+                    "-",
+                    "1",
+                    "0",
+                    "28.00"
+                ],
+                [
+                    "Tim Ward",
+                    "c Bruce b Duffy",
+                    "16",
+                    "22",
+                    "-",
+                    "3",
+                    "0",
+                    "72.72"
+                ],
+                [
+                    "Caleb Jewell",
+                    "not out",
+                    "69",
+                    "84",
+                    "-",
+                    "10",
+                    "1",
+                    "82.14"
+                ],
+                [
+                    "Nathan McSweeney(c)",
+                    "c \u2020Fletcher b Duffy",
+                    "22",
+                    "44",
+                    "-",
+                    "5",
+                    "0",
+                    "50.00"
+                ],
+                [
+                    "Campbell Kellaway",
+                    "not out",
+                    "10",
+                    "39",
+                    "-",
+                    "1",
+                    "0",
+                    "25.64"
+                ],
+                [
+                    "TOTAL",
+                    "39 Ov(RR: 3.61)",
+                    "141/3",
+                    ""
+                ],
+                [
+                    "Fall of wickets:1-23(Tim Ward, 6.1 ov),2-42(Cameron Bancroft, 15.2 ov),3-88(Nathan McSweeney, 26.6 ov)"
+                ]
+            ],
+            "extra": [
+                [
+                    "Extras",
+                    "(lb 5, nb 5)",
+                    "10",
+                    ""
+                ]
+            ],
+            "bowling_head": [
+                "BOWLING",
+                "O",
+                "M",
+                "R",
+                "W",
+                "ECON",
+                "0s",
+                "4s",
+                "6s",
+                "WD",
+                "NB"
+            ],
+            "bowling": [
+                [
+                    "Jacob Duffy",
+                    "12",
+                    "1",
+                    "46",
+                    "2",
+                    "3.83",
+                    "47",
+                    "5",
+                    "0",
+                    "0",
+                    "2"
+                ],
+                [
+                    "Brett Randell",
+                    "9",
+                    "2",
+                    "40",
+                    "0",
+                    "4.44",
+                    "43",
+                    "7",
+                    "1",
+                    "0",
+                    "3"
+                ],
+                [
+                    "Scott Kuggeleijn",
+                    "9",
+                    "2",
+                    "26",
+                    "1",
+                    "2.88",
+                    "43",
+                    "4",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Sean Solia",
+                    "6",
+                    "0",
+                    "21",
+                    "0",
+                    "3.50",
+                    "27",
+                    "4",
+                    "0",
+                    "0",
+                    "0"
+                ],
+                [
+                    "Ajaz Patel",
+                    "3",
+                    "1",
+                    "3",
+                    "0",
+                    "1.00",
+                    "16",
+                    "0",
+                    "0",
                     "0",
                     "0"
                 ]
