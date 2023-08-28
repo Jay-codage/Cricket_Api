@@ -403,7 +403,8 @@ def cricket_api(hostname):
                         match["details"] = match_id.text
                         match["team_1_flag"] = team_1_flag['src']
                         match["team_2_flag"] = team_2_flag['src']
-                        match["match_link"] = f"{match_link['href']}"
+                        if (match_link['href']) is not None:
+                            match["match_link"] = f"{match_link['href']}"
                         match['match_link_slug'] = f"{match_link_slug}"
                         match['match_scorecard_link'] = f"{match_link['href']}"
                         match["team_1_title"] = team_1_title.text
@@ -435,7 +436,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -466,7 +468,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -497,7 +500,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -534,7 +538,8 @@ def cricket_api(hostname):
                         match["details"] = match_id.text
                         match["team_1_flag"] = team_1_flag['src']
                         match["team_2_flag"] = team_2_flag['src']
-                        match["match_link"] = f"{match_link['href']}"
+                        if (match_link['href']) is not None:
+                            match["match_link"] = f"{match_link['href']}"
                         match['match_link_slug'] = f"{match_link_slug}"
                         match['match_scorecard_link'] = f"{match_link['href']}"
                         match["team_1_title"] = team_1_title.text
@@ -566,7 +571,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -598,7 +604,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -629,7 +636,8 @@ def cricket_api(hostname):
                     match["details"] = match_id.text
                     match["team_1_flag"] = team_1_flag['src']
                     match["team_2_flag"] = team_2_flag['src']
-                    match["match_link"] = f"{match_link['href']}"
+                    if (match_link['href']) is not None:
+                        match["match_link"] = f"{match_link['href']}"
                     match['match_link_slug'] = f"{match_link_slug}"
                     match['match_scorecard_link'] = f"{match_link['href']}"
                     match["team_1_title"] = team_1_title.text
@@ -659,7 +667,7 @@ def cricket_api(hostname):
 if __name__ == '__main__':
     while True:
         cricket_api("www.espncricinfo.com")
-        time.sleep(1)
+        time.sleep(5)
 
 
 
